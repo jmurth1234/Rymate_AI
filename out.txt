@@ -110,7 +110,6 @@ just put client minecraft.jar in ./minecraft/bin/.
 you dont need to extract it to make overviewer work.
 thanks.
 and dont set texturepath in the config.
-worlds["world"] = "/home/minecarft/backups/world/" worlds["skylands"] = "/home/minecraft/backups/skylands/"  renders["worldday"] = {     "world": "world",     "title": "world Daytime",     "rendermode": smooth_lighting,     "dimension": "overworld", }   renders["skylands"] = {     "world": "skylands",     "title": "skylands",     "rendermode": smooth_lighting,     "dimension": "overworld", }  outputdir = "/var/www/map/" texturepath.
 then it will use the .jar automatically.
 but what i need to put theretexturepath = "/home/my_texture_pack.zip".
 so you want to use another tecture pack?.
@@ -124,7 +123,6 @@ O_o.
 Your bot stinks, rymate1234.
 ikr.
 That works.
-?getMessage.
 I've been pumping information into it from a minecraft map renderer wiki and the irc channel for that map render tool.
 :P.
 hi Rymate-Bot.
@@ -357,4 +355,1667 @@ Botsnack ftw.
 direwolf, lememe fastforward.
 oh lol.
 I made a bot.
-
+Dazzozo, I might get a yearly vps. 
+�19 a year. 
+and how shit will it be?. 
+Yey. 
+Dazzozo, 190MB ram. 
+*mutes speaker. 
+220MB Burst. 
+HAHAHAHHA. 
+O.O. 
+Its getting smarter. 
+yes. 
+now it just spews out what other people had said. 
+Good SAY LOADSA SHIT. 
+But it will get better with time. 
+rymate1234: would probs be ideal for litle things like this. 
+http://www.jibble.org/jmegahal/. 
+oh shit. 
+haha no worries, I'm cooking. 
+now i pizza. 
+ye wat. 
+ BRB putting pizza in the packet trace. 
+What?. 
+I'm happily consuming multiple servings of veggies like a g6-1. 
+http://megahal.alioth.debian.org/. 
+im trying to get it to learn shit. 
+wahey. 
+Im sitting here listening to screamo like a boss. 
+yay. 
+agrif, do you have a url for the render-in-progress?. 
+I do!. 
+FUCK YOU RYMATE BOT. 
+O_o. 
+fock. 
+the g300 is shit. 
+the g300 is shit. 
+the g300 is shit. 
+the g300 is shit. 
+the g300 is shit. 
+.... 
+:(. 
+How did it know that?. 
+the g300 is happily consuming servings of pizza from the packet trace like a g6-1. 
+it learns more from longer sentences. 
+o_o. 
+AmbushReality, I hate you. I really do. 
+lol. 
+The crescent is happily consuming pizza like a boss. 
+Guess what my bot said in another channel.  
+LOL. 
+YESSS. 
+XD. 
+O.o. 
+Wow.. 
+Interesting. 
+[21:23] (AmbushReality) This sentance is really really really really really really really long. 
+CounterPillow, nope, someone else in another channel is. The bot happened to be in the channel when they said that.. 
+ok. 
+I can help now. 
+Woah that was...smart!!. 
+This sentance is really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really long. 
+no. 
+O_o. 
+What's the use of this bot, exactly?. 
+Akdhaifhwkdhaodhwkdhwofhsodhaodhwodhzoshdo. 
+None. 
+:P. 
+Also, lol your penis is small. 
+I did it for fun. 
+XD. 
+crap. 
+success. 
+:(. 
+lol. 
+it randomly highlights people. 
+stfu to #moosesocks kthnxbye. 
+XD. 
+yay. 
+I made it add full stops to the end of messages. 
+Rymate-bot is really really really stupid. 
+ur bot sux. fixit. 
+no. 
+Presenting... CyanogenMod 9 for the ZTE Crescent! You need a 200MB system partition minimum for this ROM (160MB without Google apps). Stock partition layout is ideal but if you are having problems such as missing Google apps, use the TPT at the bottom of the post. For those who have no idea what Ice Cream Sandwich looks like.... 
+pironic: hello rymate1234. 
+k. 
+NOTCH DIS DUES NOT WORK ON ME MAC FIXIT. 
+Learn much ;). 
+lol. 
+This ROM is suitable for both the Orange San Francisco II, the T-Mobile Vivacity and the Telenor Touch Plus. It is 75% flibblesan's work, with me only getting Wi-Fi to work and a few extra goodies.. 
+The ZTE Porting Tool is a tool that makes it easy. 
+to port ROMs between ZTE Devices (currently only ZTE Skate <-> ZTE Blade). 
+Easy, Fast and Simple to use.. 
+Heyy ￼ first, this ROM is early and not really that good, just a little something I wanted to do to see if I could :P. 
+lol. 
+fack. 
+Wow... 
+Fish'N'Chips....................................................... 
+O_o. 
+Bitch motherfucker. 
+lol.
+I just told someone that he shouldn't restrain himself from criticizing my code. I'm so going to regret this. 
+samster34: Try with normal dd and if=/dev/zero, just to rule out odd things we might not know about this tool.. 
+wait really?. 
+preceded by a cliff :). 
+ok. 
+yep. 
+Hmmm, I think I like open source media (video) players more. MPC-HC on Windows for example with ffmpeg and whatnot.. 
+Ohh neat.. maybe some day.. when there's time to breath. 
+killer: can you pastebin "df -h". 
+the bot is currently connected to my vps. 
+I've done dd with /dev/zero. 
+on linux side, I often wish that people just picked some very few things they think they can do well and keep working, and concentrated on making something Not Suck from user point of view even if that meant throwing 99 % of current software overboard. 
+Vps?. 
+also works. 
+no. 
+word. 
+freezway: they aren't releasing any more new versions of the netscape API flash for linux. 
+not vps. 
+because the legacy and being compatible with everything weighs it all down so depressingly. 
+znc. 
+Anybody feel like helping me find an ebook?. 
+time to downvotebomb. 
+It is learning from ALL channel that i am in. 
+Looking for the ballad of the sad cafe: and other stories by carson mccullers. 
+http://www.omgubuntu.co.uk/2012/02/adobe-adandons-flash-on-linux. 
+Title: Adobe Abandons Flash on Linux (at www.omgubuntu.co.uk). 
+only the pepper API one (which only chrome/chromium supports atm) is getting new versions. 
+i keep waiting for them to write a good replacement for X  :). 
+the commands are disabled for now. 
+wow... wtf adobe. 
+yes. 
+Child theme question: how to import changes made via the new 3.4 customization feature ?. 
+not many people know nerd.nu made r/minecraft :P. 
+flash will be irrelevant in a few years anyway. 
+We tried that already. 
+hold on, I'm installing some more ram... 
+wayland at least looks like it throws away whole bunch of layers. 
+With a different plane. 
+Never found it. 
+We alwayz try that. 
+freezway: they already dropped all mobile support. 
+:|. 
+So we cant !converse?. 
+Vulix: ViewTube for Greasemonkey: <http://userscripts.org/scripts/show/87011>. 
+no more flash for android either. 
+Vulix: To play flash videos in mplayer, Follow the instructions here http://sprunge.us/haWj. 
+nope. 
+fuck adobe. 
+sorry. 
+Its running through my nick. 
+gtmanfred: youtube-viewer 20120509-1 - AUR - Arch Linux: <http://aur.archlinux.org/packages.php?ID=37779>. 
+thestinger: i'm pretty sure they're changing their mind on that soon as windows tablets are out in the wild. 
+Vulix: honestly, who really needs flash at all. 
+maybe if we could educate people about how proper graphics and sound stacks should look like -- largely the message is "copy whatever OS X is doing" -- then perhaps some kind of minimum bar of quality could be reached.. 
+gtmanfred: you realize flash covers more than just youtube, right?. 
+yes. 
+Like porn. 
+Its learning through you?. 
+kevlarman: windows ARM has no plugins allowed. 
+but that is where viewtube and the other one come in. 
+wayland as i understand it is about the rendering model. 
+so they can't. 
+yes. 
+To play flash videos in mplayer, Follow the instructions here http://sprunge.us/haWj. 
+as opposed to doing something about the data / input model, where the problems are. 
+Isn't Ubuntu trying hard to copy OS X? When I used 12.04 for a bit, it surely felt like it.. 
+that will do everything. 
+define "made". 
+Its learning through every channel I'm in in freenode. 
+but it's a convenience thing. 
+ctate: really? I have no idea what you even mean by data model.. 
+thestinger: microsoft got the source from adobe so they can embed it in IE in metro mode. 
+meh. 
+If the porn industry switched to html5, flash would die in an instant. 
+Nat created the subreddit to use for the servers. 
+a few sites i use have flash for interactions. 
+which is 13 channels. 
+which is was for a while. 
+and the input thing is explicitly going to get thrown away too, at least whatever X is doing with it because there will be no X. 
+Ouch. 
+freeed: man, when i do register_taxonomy with 'hierarchical' => true, is there a way that the post only has one category ? no multiples...... 
+thestinger: also i definitely expect to see atom windows tablets. 
+how is input managed?  how is clipboard data managed?. 
+nabukadnezar43: kill them with fire. 
+do it. 
+samster34: What do you mean by "also works"?. 
+OS X is awesomesauce!. 
+like burgerking's order page and my bank's site. 
+that all falls under X's bailiwick. 
+minecraft gained popularity and people came to r/minecraft without wanting to play on the nerd.nu servers, so we gave r/minecraft to the community and created r/mcpublic. 
+Is the problem the money? Or lacking project management/usability engineering?. 
+Ah. I actually didn't know that either.. 
+Jordan_U: I wrote a couple GB of zero to the disk, and they showed up. 
+gnash works for them though. 
+well. 
+This is gonna be fun. 
+>so we gave r/minecraft to the community. 
+can we pre-emptively register the reddit shortlinking system for pony stuff for the rest of the emotes?>. 
+nat is still top mod. 
+seeing what the outcome is. 
+smaster34: what other command were you trying?. 
+yeah he should remove himself. 
+ctate: I imagine the applications open the input devices directly. I confess I don't really know, but if you start from the viewpoint that there's no X process to manage it and that applications are supposed to do virtually the entire work themselves, then I guess it's libraries and direct talking with kernel and gpu. 
+yeah. 
+Yup. 
+I'm guessing 0 actions. 
+kakazza: successful projects have people who care deeply about making them happen, and do the work of driving that. 
+nope. 
+sigh… pretty much every class in my manifest is triggering a class not found exception. The classes are all there… I'm at a loss for how to debug this. Anyone have any ideas?. 
+With Ubuntu, you used to be able to just move the mouse and click and be on another workspace. 
+most OSS software projects are managed by hobbyist programmers. 
+he does do things sometimes. 
+ahh okays. 
+Would anyone in here happen to like both Kamen Rider and BESM 3e?. 
+[21:43:01] * Received a CTCP VERSION from rymate1234. 
+[21:43:02] -rymate1234- VERSION PircBotX 1.7, a fork of PircBot, the Java IRC bot - pircbotx.googlecode.com. 
+[21:43:02] -rymate1234- VERSION XChat-WDK 1506 [x64] / Windows 8 [2.10GHz]. 
+things which I will not talk about in this channel. 
+That's nice. 
+O_o. 
+well still, at least remove then remod. 
+samster34: Then what problem are you having with dd?. 
+I'm two people basically. 
+That it works for them. 
+had 18, i gave him -26. 
+kakazza: almost all really successful OSS projects are ones that have been backed by companies with a direct interest in the outcomes. 
+:V. 
+lol. 
+kakazza: the problem is desperate lack of engineering resources. 
+Hmm, isn't the Linux kernel pretty successful in that regard? Linus is _very_ dedicated.. 
+freeed, any suggestions ? ^^. 
+Jordan_U: it doesn't let me write 0xFF for example. 
+Now you have to move the mouse, click, then move the mouse and click again.  So I just do Control-Alt-Arrow now.  It was a pain to re-learn. 
+.karma Nisld. 
+ploshy: Nisld has 1 link karma and 18 comment karma after 3 months. http://reddit.com/u/Nisld. 
+Wow. 
+NOT UPDATED, yet.. 
+lol. 
+r3dLunchb0x_: dcfldd. 
+so mean. 
+.karma arrowtotheknee. 
+SirCmpwn: arrowtotheknee has 15 link karma and 0 comment karma after 6 months. http://reddit.com/u/arrowtotheknee. 
+.karma arrowintheknee. 
+SirCmpwn: arrowintheknee has 1 link karma and 5 comment karma after 6 months. http://reddit.com/u/arrowintheknee. 
+Ooer - when i downvote, i downvote hard.. 
+Kunda.. no idea :( Guessing the modifications are per theme.. so you'd have to make them again.. 
+what is that guy's name. 
+Actually, if you downvote from his user page it won't change his karma.. 
+.karma arrow_to_the_knee. 
+I always wondererd that, since OSS projects (can) have potentially much more contributers.. 
+SirCmpwn: arrow_to_the_knee has 1 link karma and 11 comment karma after 6 months. http://reddit.com/u/arrow_to_the_knee. 
+asdf. 
+so updating gives me problems because some files already exist int he filesystem?. 
+Nisld. 
+I'm saving up for that uber-downvote ability too. 
+i wouldn't mind sites such as burger king. 
+samster34: is that  a different dd package?. 
+only 5,000 more karma. 
+Ooer - res and jzjzjzjzjz. 
+but i use my bank's site regularly. 
+freed, are they stored in the DB ?. 
+Hi!. 
+You need to go to every individual comment and downvote for it to have an impact. 
+kakazza:  see above re people who care deeply about making them happen; also note that various companies have invested directly in making the linux kernel work well in ways that they care about (intel, ibm, etc). 
+from the profile page?. 
+r3dLunchb0x_: yes, it also allows writing of custom patterns. 
+eet does nothing. 
+yes. 
+cccaldas, not that I know of. You'd probably need to make your own taxonomy meta box that restricts user's to select only one. 
+i think the trend is less icons, bigger icons and more table friendly. I don't know who copied who, but new Windows, Ubuntu, and Apple look similar (compared to any older version). 
+kakazza: only projects with some kind of successful company about them seem to be able to hire full-time people that do serious work and they usually have some specific user-related goals to meet. 
+they will only show for you. 
+Kunda, no idea :\ Guessing so... 
+Will they?. 
+yup. 
+"lots of contributors" != successful :). 
+Vulix: http://www.archlinux.org/news/. 
+samster34: looking at the homepage now.. 
+idling in #defocus is like eat food in the bathroom.. 
+freeed: hm… i will read more… thkx. 
+Also don't install from core if you can help it. 
+reddit stops people spamming downvotes from user page. 
+Kunda, I would guess wp_options. 
+lol. 
+netinstall or bust. 
+The admins changed it to make mass downvoting harder.. 
+fu. 
+*eating. 
+Vulix: did you install with the cache of the core iso... because if you use netinstall or remote from core you don't get any of these errors. 
+more than welcome to join my awesome secret channel. 
+LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL. 
+anyway, the problem is...they all appear to write to the disk fine. 
+thorbinator, the short link is just the post ID.. 
+i used core iso. 
+I be back. 
+KindOne, which channel. 
+but after it was done it was suddenly filled with gibberish. 
+i wanna join it. 
+wwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT. 
+##coders?. 
+Vulix: Read The Fine News! https://www.archlinux.org/news/. 
+gtmanfred: is there a way to only download enough to buffer a video?. 
+all your solutions are there ^^. 
+You can go to his comments and click "context" or "permalink" and downvote from there.. 
+http://www.youtube.com/watch?v=mHIMs7UKTSg. 
+Either make the name too long, too short, or include a character not used in reddit identifiers.. 
+ryaxnbw7: Equestria Girls - HD v.2 - length 1m 30s - 353 likes, 7 dislikes - 19,553 views - noobish1noobsicle on 2012.01.14. 
+ah so i basically have to download a new iso and reinstall. 
+That will still have an impact.. 
+I just wish Windows had native virtual desktops.. 
+a 720p version of Equestria Girls!. 
+FINALLY!. 
+like if you're streaming youtube videos via mplayer?. 
+fanmade. 
+sudokode: set you mplayer cache.... 
+this is what i've dreamed of ^_^. 
+gtmanfred: but that will continue downloading. 
+.yay. 
+yay~~. 
+cba then. 
+that just tells it how much to cache before playing. 
+kakazza: i dont know about win7, but xp had powertools. 
+sudokode: yes,. 
+Spaces (even though they removed the grid layout in Lion, doh) and whateveritscalledonubuntu is just so useful.. 
+not that I wouldn't want a random write, but dd from /dev/urandom is incredibly slow. 
+samster34: what exactly are you trying to accomplish with this?. 
+can anyone point me to some detailed wireless troubleshooting? I can't get a rtl8187 to work properly... 
+well, that's why I like the youtube flash player. 
+it was a feature the devs added and wanted, but didnt  make the cut into production. 
+if it is a live stream that has to keep playing i think. 
+I want to wipe the disk. 
+it only downloads enough to play. 
+I watch a lot of videos that are like 30+ minutes. 
+i've installed now arch and i've installed xorg-fonts-{100-75}dpi but when i run firefox the internet fonts it really bad... which font should i install?. 
+samster34: using /dev/urandom||/dev/random it has to wait till those get some "random" data in them to write. 
+so download all of it at once if I might quit later is a waste. 
+s)m#nak3dguy: what part of the process are you having issues with?. 
+oh w/e this does the same thing that youtube does, it just moves it from /proc/ to /tmp/. 
+elron: https://wiki.archlinux.org/index.php/Fonts. 
+elron: ttf fonts i guess there is some lists on tyhe wiki. 
+it's not w/e. 
+is it possible with some wordpress function to echo/print which template name is used?. 
+sudokode: no, you don't downlaod the whole thing, you can start playing as soon as the buffer starts. 
+no.. 
+elron: you probably need win7 fonts. 
+oh wait, comcast supposedly suspended the bandwidth cap. 
+r3dLunchb0x_: doesn't really matter to me why it's slow, it just is :). 
+elron: do you have ttf dejavu installed?. 
+No... my #t channel is better!. 
+samster34: do a for loop on the command line and dev/zero one time, /dev/urandom for dd. 
+alchemist9: The device is seen, a interface is created, however; I can't connect or see any scan data. 
+sudokode: Quite honestly, youtube-viewer is a much saner solution. 
+ive never really used win7, so i dont know if they have a similar powertool extension. 
+gtmanfred: you're not getting what I'm saying. 
+sudokode: starting when?. 
+starting some time. 
+t is for trooolololin. 
+gtmanfred: Btw. I think you can do that staight from /proc without needing unlunk. 
+sudokode: Comcast suspends 250GB data cap—for now | Ars Technica: <http://arstechnica.com/business/2012/05/comcast-suspends-data-caps-for-now/>. 
+so why even offer the core iso if it just breaks right out of the gate.... 
+no brotatos, but when i try to install win7 fonts there are an error because don't found the arial font.... 
+Vulix: because some people can't get internet. 
+r3dLunchb0x_: ?. 
+what if virtual desktops are too much for average user? (all people here in a *-dev channel are not average). 
+anyway I'd have much more positive impression of linux if I could even get the fonts to look alright on it. 
+Vulix: bad planning. 
+s0m3nak3dguy: let me think a second... 
+and they are stuborn. 
+gtmanfred: so what? you need the internet to use arch anyway. 
+oooh just got to do a comparison operator for a class to work in a map, and im going good. 
+people understand stuff like sRGB surface composing when you explain it to them, but that doesn't translate into anybody doing anything. 
+Why is a socket in programming called a socket?. 
+alchemist9: ok, ty and take your time, i've got a ll day lol. 
+sudokode: was talking more about broadcom. 
+productive morning. 
+nickoe: cause it's a socket. 
+samster34: how big is the disk?. 
+Now I dont know what other unexpected surprises there will be =\. 
+SuD: average user probably isnt going to press ctrl+alt+arrow. 
+they can't move the files ebtween or something silly. 
+.karma arrowstotheknee. 
+SirCmpwn: arrowstotheknee has 292 link karma and -19155 comment karma after 2 months. http://reddit.com/u/arrowstotheknee. 
+you're working inside a map?. 
+found the bugger. 
+750 GB ~ 715GiB. 
+sudokode, :/. 
+I need to detect if after a rotation the handheld is landscape, portrait or seascape (note the latter, so Configuration#orientation is pointless). 
+complete with uber breakfast :D. 
+nickoe: could you be more specific?. 
+brotatos: no, but when i try to install win7 fonts there are an error because don't found the arial font.... 
+I've been letting it write 0xff for hours... 
+s0m3nak3dguy: the devices are not blocked? What is the output of  rfkill list?. 
+only to find it full of everything but that. 
+s0m3nak3dguy: Are you using some older Ubuntu version? I'm pretty sure that chipset was supported after about 9.04 ( Jaunty). 
+for a massive percentage of people clipboard is: right click -> copy, right click -> paste. 
+if we ever get beautiful font rendering on linux, I think it will be purely because world changes away from sRGB eventually and then the lowest common denominator design happens to compose reasonably from font rendering point of view.. 
+std::map<Type1, Type2>. 
+genii-around: i'm using a recently installed 12.04. 
+oCean: rfkill list no blocks. 
+alankila: Ah, you're the one who is trying to get that patch into linux, right? Or a pacakge?. 
+genii-around: exactly, it "should" work easily. 
+.p show template > MrWax. 
+MrWax: http://wordpress.org/extend/plugins/show-template/. 
+s0m3nak3dguy: okay try configuring it with iwconfig it should pop out an error message on why it isn't connecting.... 
+suborbital, I was just thinking that there might be some historical reson other that someone just called it that because he was looking around the room to find a name of his function and then saw the socket in the wall.. 
+Type1 needs an operator< function std::map can use it with map.find(). 
+kakazza: what patch? I have a pixman hack for sRGB surfaces right now. 
+test. 
+samster34: look at this: http://how-to.wikia.com/wiki/How_to_wipe_a_hard_drive_clean_in_Linux. 
+nickoe: what sort of socket?. 
+again. 
+like tcp. 
+do you mean like inet sockets? unix sockets?. 
+pixman, right.. 
+oh okay. 
+I should add commas to numbers in JeBot. 
+I'm hoping it makes it in, because at least after that there is *capability* for doing it, even if nobody uses it yet. 
+does anyone know how to install Peer Guardian  linux in ubuntu 12.04. 
+-19,155 karma. 
+yeah. 
+exetron: use #test for that. 
+alchemist9: tried that with network-manager disabled(can't think of anything else I should disable), i will find a place to list my dmesg.. 
+Is there anyone in here who can help me with organizing posts into sections and sub sections, that would like to look at my code?. 
+no idea. 
+after that begins the next phase of the operation, convincing fuckton of people why they should care. 
+pixman is what exactly?. 
+heh. 
+maybe ive just been using linux for too long and am immune to the fonts, but to me, fonts look no different or better on os x. 
+elron: read inside the pkgbuild, it tells you how to get them. 
+http://pastebin.com/DVHDefpw. 
+does anyone know how to fix the screen resolution for games under wine? I set the resolution to = to my screen, but there's a huge blank spot on the right. 
+it is the chief rendering library used by X server and also hardware accelerated where possible. 
+i hadn't updated my laptop for a few weeks. did that, saw a bunch of packages so i rebooted. now i have no mouse--it's a thinkpad with the touchpad turned off.  i note that xorg vmmouse and evdev has point releases, anyone else have a porblem with those?. 
+probably because of what a socket is in other senses. 
+that will confuse certain Europeans though. 
+Not that it borthers me a lot, just figured that someone in here might have an idea.. 
+birbeck: immune it is.. 
+An opening in any fitting that matches the outside diameter of a pipe or tube, with a further recessed through opening matching the inside diameter of the same pipe or tube. 
+Hi!. 
+birbeck: http://bel.fi/~alankila/pixman/fontscol.png. 
+gtmanfred: ok. 
+my patch on top, typical linux result on bottom. 
+With the 'Ubuntu' font it got better. But I still like OS X and Windows fonts better. Linux fonts always appear toylike to me :x. 
+yeah, I see. 
+it's an experiment designed to showcase what sRGB surfaces get you. 
+nickoe: prolly because stuff goes in and out. 
+Hi. What do I need to do to make openconnect work in NetworkManager? I have it working by itself. But when I try to connect via NetworkManager, I just get the spinning circle over and over, with the lock in the corner appearing every second or so for only an instant.. 
+skomokh: you'll have to go into terminal and type "sudo apt-get -f install". 
+r3dLunchb0x_: that#s what I#ve been doing...only writing 0xff for now instead of random data, since I can't wait a week for this thing to do two passes. 
+sudokode: wn: socket n 1: a bony hollow into which a structure fits 2: receptacle where something (a pipe or probe or end of a bone) is inserted 3: a receptacle into which an electric device can be inserted; moby-thes: 30 Moby Thesaurus words for "socket": alveolation, alveolus, antrum, armpit, basin, bowl, cavity, concave, concavity, crater, crypt, cup, depression, dip, fold, follicle, funnel chest, hole, (6 more messages). 
+file:///C:/Users/Q009/Desktop/Dropbox/Public/Otomata.swf Have fun. 
+sRGB is what exactly?. 
+Wait. 
+they get you physically meaningful alpha blending. 
+ahahaha. 
+Lolwt.. 
+hahahaha. 
+alankila: they both look like crap, though i like the bottom better. 
+sRGB is the standard by which most consumer displays operate, or approximate. 
+rclick->dropbox->copy public link. 
+they should've called them craters. 
+https://dl.dropbox.com/u/27217567/Otomata.swf. 
+samster34: its a 750GB disk....dd does byte-by-byte....are you planning on using this disk again?. 
+OverExposed: use meta_query. 
+r3dLunchb0x_: first thing i tried, alas, no dice. 
+it depends though, for web reading the bottom is better, for code, the top is better. 
+Yea, I know, I though I did that. 
+.c wp_query > OverExposed. 
+OverExposed: http://codex.wordpress.org/Class_Reference/WP_Query. 
+:D. 
+birbeck: liking it is not the point. The bottom shows a darkening artifact which is the heart of the problem.. 
+heh. 
+r3dLunchb0x_: also not seeing much informative in the xorg log. 
+though neither has very good anti-aliasing. 
+damnit. 
+skomorokh: you'll have to go into terminal and type "sudo apt-get -f install". 
+r3dLunchb0x_: yes. 
+nobody knows 'bout #moosesocks. 
+the kernel is getting loaded. 
+I do. 
+ohi. 
+elron: read th PKGBUILD. 
+but it doesnt see its root. 
+samster34: ah, gotcha.... 
+I'm part of the secret internet club. 
+the root is a usb disk?. 
+Eximius: did you add the usb hook. 
+alchemist9: What on earth are you using?  A 200mhz ARM processor?  It didn't take 8 hours back in the PII days!. 
+The anti-aliasing is subject of the glyph definition and the quality of freetype when rasterizing it. It may not be correct -- I hope it is the computed correctly by freetype.. 
+yes. 
+like I told you hours ago. 
+that's a corner case though, that color combination is intended to produce "eye cancer". 
+I did. 
+and it worked. 
+My query works fine, the problem with my code is that if a section or sub section doesnt have posts associated with it, I don't want them to display. 
+but this is a new usb now. 
+lul. 
+r3dLunchb0x_: thanks, but i've done this to no effect. 
+that color combination is designed to show why sRGB matters. 
+you get rid of the dark artifacts around font edges. 
+then use if have posts. 
+Eximius: did you use /dev/sda1 as your grub stuff?. 
+uuid. 
+ninnypants1, kaileylampert:  Crud, not my custom post type archives are /blog/custom-post-type.  Any ideas on that?. 
+and do your query before you output anything. 
+ok, that is good. 
+correct uuid. 
+right now it automatically  generates sections based on wheather the taxonomy term exists as apposed to associated posts. 
+not=now. 
+And I still don't know why 'moosesocks'. You're weird, agrif. 
+skomorokh: did you also do "sudo apt-get update". 
+kyle__: it's only been 4, only took 4 hours on a 400mhz powerpc but i'm running a i386 1.2ghz.... 
+the top edges of the text on top looks white. 
+Well how do I do that?. 
+alchemist9: pastebin.com/kba87QtN. 
+so it appears to have the same problem, just reversed. 
+hello. 
+alchemist9: O_o 1.2ghz 386?. 
+Hello timoto. 
+hello. 
+it looks like this when white-on-black: http://bel.fi/~alankila/pixman/badlcd-cairofixed.png. 
+samster34: what about shred? you tried that?. 
+.c has_posts > OverExposed. 
+OverExposed: http://codex.wordpress.org/Design_Widgets_SubPanel. 
+Eximius: this usb worked before?. 
+can you help me i want to display users on my overview map. 
+hey, I didn't come up with moosesocks. 
+brotatos: I am not entirely clear. 
+kyle__: I'm a sucker for antiques?. 
+Please look at my code before just sending me random codex links. 
+alchemist9: Oh, you mean 32bit.. 
+no. 
+r3dLunchb0x_: yeaup, that's very much how it found the packages that got installed. i just checked and i'm not using any xorg.conf either (thought maybe i'd need to regenerate that). 
+.weather. 
+this is another usb. 
+the top looks better there. 
+r3dLunchb0x_: nope. is there a way to monitor it's progress? I'd like to be able to tell how far along it is... 
+birbeck: maybe you are not viewing the demo in precisely sRGB display. 
+shadowh511: Bellevue, WA: Rain, 55F/13C (H:63F, L:55F), Humidity: 88%, Wind: E at 4 mph.. 
+i understand how the functions work, I just need to know how to order my logic. 
+hahaha. 
+brotatos: i have to download the fonts?. 
+.karma Nisld. 
+ploshy: Nisld has 1 link karma and 18 comment karma after 3 months. http://reddit.com/u/Nisld. 
+... Eximius can you show me the mkinitcpio.conf. 
+I'm having some trouble with my P2015 hp printer and cups not detecting it. When I plug it in the last thing I see in dmesg is "[   32.543356] usb 8-6: new high-speed USB device number 2 using ehci_hcd" and the archwiki article on cups implies that there should be another after this. I do have the hplip package installed. Any ideas on how I may fix this?. 
+aww :(. 
+does it have to do with sub pixel rendering?. 
+ok... 
+oh no, achin is gone. 
+if the top looks white or something you may have poorly calibrated display or have the wrong viewing angle. 
+.karma Helzibah . 
+Helzibah: User not found :(. 
+:(. 
+No he isnt?. 
+Sutekh: Up for a trivia question?. 
+alankila: whatever the crap display is on this macbook pro. 
+haha, smart move clipboard. don't make use of the new gpu accel stuff that only 1% of devices have ;-). 
+achin is the guy who knows the most about map markers. 
+alchemist9: Eh, I think my netbook is barely faster than that...1.4, 1.6 maybe.... 
+flipboard*. 
+.karma helzibah. 
+Helzibah: helzibah has 263 link karma and 9721 comment karma after 9 months. http://reddit.com/u/helzibah. 
+he's on vacation :(. 
+s0m3nak3dguy:post the url again.... 
+how can i make this?. 
+Oh, right :c. 
+Qcoder00: I am... (likely to fail..). 
+In the b/w one, top looks easier on the eyes because lines seem thicker.. 
+you just have to wrap it around your output. 
+timoto: I don't know, sorry. 
+birbeck: well, macbooks are supposed to be more or less perfect. At least my experience indicates that they reproduce sRGB very faithfully if you have the right viewing angle. 
+OverExposed: Coming in halfway here, but I did something that checks for children.... 
+OS X has color management support.. 
+Dinnerbone - you should nickchange on gamesurge. 
+http://ideone.com/jWXJc. 
+But there are  multiple sectiosn and sub sections based off of custom taxonomy terms. 
+Title: Ideone.com | Online IDE & Debugging Tool (at ideone.com). 
+i dont use os x though. 
+timoto, whats up?. 
+Hi everone. 
+alchemist9: http://pastebin.com/kba87QtN. 
+kyle__: I have no clue why it's taking longer on the 386 than it did on the powerpc... 
+.silenta. 
+.silent. 
+You should have seen it before :p I will if it gets too much trouble. 
+does anyone know what this means and how to fix it pacman: /lib/libc.so.6: version `GLIBC_2.15' not found (required by /usr/lib/libcurl.so.4. 
+do you know how i can change the name from the webseite and add an default zoom?. 
+I think i'm the only one who plays on the channel server :/. 
+Fairly simple.  Was the first 'videodisc' style system a digital or analog system?. 
+serf_: did you force and update?. 
+which name did you want to change?. 
+urgh, what...now my live system won't boot anymore. 
+birbeck: oh. Well, then you are probably missing out on the color management. The colorsync stuff is required to get the sRGB look. 
+then only wrap the output you don't want to show when it's empty in it. 
+Propaply the html title. 
+.seen Noclipper. 
+no gtmanfred. 
+Altazimuth: Noclipper was last seen 30 minutes ago saying: Neat. You seem new here.. 
+I am going to say analog. 
+yes. 
+And you would be correct :). 
+ahh right okay in your web_assets folder there is an index.html file. 
+alchemist9: Yea...especially considering gcc never made terribly great code for PPC, so gcc built with gcc is slow on ppc.. 
+I'm on the PVE on. 
+samster34: what about creating a new filesystem on it..... 
+ee. 
+c.. 
+the top text has a lot of artifacts in the b/w one. 
+i installed curl as far as i can tell from pacman log. 
+kernel panic - not syncing: stack-protector: kernel stack is corrupted in : fffffffff8152a07f. 
+you can edit that file, anything in that folder will be copied over when you generate. 
+did you cherry pick from testing?. 
+So if it got scratched it would not really skip then? :). 
+samster34: http://linuxcommando.blogspot.ca/2008/06/show-progress-during-dd-copy.html. 
+if you want to change the title, you can do that in that file.... 
+Well  ;). 
+I see no artifacts personally. I see a beautiful, even white text, where the bottom one is colored and way, way too dark, especially on the small sizes. 
+samster34: Have you run a memory test?  Memtest86 probably is on that live-cd boot :). 
+I think I have a handle on how to do player markers now too. 
+bottom sample looks purple to me. 
+thanks. 
+serf_: version of glibc ?. 
+and a defualt zoom?. 
+nope testing is #. 
+skomorokh: and you're mouse pad still doesn't work? what laptop are you using?. 
+http://earslap.com/projectslab/otomata/?q=10_0_150_642651373773120841 :3. 
+The first video-disc system is pre WWII. 
+It would surely just go: Nyyaaaaaaaa pphhhhht. 
+if you look at my logic I create a conditional to find all of my top level taxonomy terms, then another nested conditional that checks my low level taxonomy terms, and then uses a dynamic query that gives the results of untis under the top level and low level taxonomy terms. 
+gamesurge?. 
+how can i find out what version it is without using pacman?. 
+I was not aware of this :). 
+on my 30" there is some discoloration of the bottom samples in the really small font sizes. 
+and what you'd get with a scratched disc is a VERY poor picture. 
+Dinnerbone - it's been +m few times now, because you. . 
+anyway, these are designed to showcase the difference between sRGB-aware composing and default composing in starkest possible light.. 
+I don't think you can set that right now. 
+lemme check the source. 
+(which gvien that the picture was failty bad already...). 
+I don't have a problem with posts showing up, my problem is with the headers for each subsection show wheather or not it has posts. 
+strings :). 
+serf_: Is this a new install using a very old installer?. 
+that the difference is not larger is one of the problems I am facing when trying to explain people why they should care. 
+yes I looked at it now you need to decide what shouldn't be shown if it's empty and wrap an if statement around it. 
+GLIBC_2.15 is an elf symbol. 
+unless you were to edit the overviewerConfig.js every time that is correct.... 
+serf_: /lib/libc.so.6. 
+nevermind. 
+RAM wasnt all the way in. 
+though it remains readable whereas the top doesnt. 
+Haha yes. 
+(you can actually run that). 
+:D. 
+in the overviewerConfig.js there is a setting called defaultZoom. 
+"defaultZoom": 1,. 
+If what ever is outputting to dmesg couldn't find a profile for my printer shouldn't it ouput "no configuration chosen"? I can't seem to find out why it would simply not output anything. 
+OK thank you, how do I do that. 
+hello. 
+under tilesets: {. 
+so if you show it only if(has_posts()) then it wont show up. 
+gtmanfred: http://ideone.com/jWXJc. 
+samster34: whew, I thought maybe you ran a dd from that last site on /dev/sda.... glad that's not the case.. 
+Title: Ideone.com | Online IDE & Debugging Tool (at ideone.com). 
+err "tilesets": [. 
+GNU C Library stable release version 2.14,. 
+durin, thank you. 
+WHERe do i put that.. 
+Well, top is clearly much better. 
+how does any of this relate to android though?. 
+yeah, but overviewerConfig.js is rewritten every time you render. 
+right. 
+I'm trying to get runtime.exec working but I can't seem to make it run even ls, any ideas (http://pastebin.com/X9wDtdr9)?. 
+Can I check if a certain taxonomy "has posts". 
+*fairly. 
+I have never heard of checking against taxonomy for has posts. 
+Watch out, Cheese is about to cut someone.. 
+Why do I suddenly expect someone installed a program using -Sy. 
+r3dLunchb0x_: nah, I even recreated the flash drive from the iso, so that couldnt have been it. 
+please explain to me how to do that. 
+we still don't have a nice solution for making changes there. 
+there a config dict for defaultZoom?. 
+it doesn't. We were just chatting about linux in general and my personal lament is the lack of finesse with linux programs. 
+no. 
+hey guys, I'm a pretty new developer and I was wondering if anyone could recommend a good book that talks about how wordpress works internally. 
+taxonomies give you a post count. 
+i couldn't remember. 
+basically all we have is "showspawn". 
+android is linux :). 
+for each term. 
+*suspect, gah. 
+OK Another question (and no-one other than the geeks will know this)..... 
+brotatos: i don't understand how install it.. really. 
+I am trying to at least get OS X -like font rendering *possible* on linux, as OS X does the sRGB aware composing stuff, as does Windows. 
+kyle__: gcc 3.x isn't too horible on powerpc ran rather smooth sucks on i386, works fine on i686... slackers... XD. 
+how is it possible to make a page the first one? so it will be displayer when i only call the domain http://wordpressblogxy.com?. 
+most of the help books I've seen are more focused on the CRM aspect. 
+(Telecoms) : What is X25 ?. 
+gtmanfred: asfgarteqqqqq. 
+Can you refer me on how to pull  this number. 
+that is one of the big reasons i never bought an original iphone, the linux based android os was due out soon. 
+and in fact I've been able to see that OS X does not have perfect font rendering in terms of sRGB correctness -- or possibly they have some altogether different design goal. 
+samster34: you're going to sell this drive then? are you working for DoD or something and you don't want the content possibly retieved?. 
+I have some rendering tests with OS X that shows artifacts. 
+how do i fix pacman so i can update. 
+it wont work :(. 
+That is a ham radio tcp/ip like protocol?. 
+Not ham radio. 
+fonts don't just look bad in linux; there are definitely differences in the way Chrome and Safari render text (and seeing the 2 side by side with "retina" displays shows this too) and my Kindle for Mac eReader renders many fonts terribly - presumably something with Qt. 
+in your output folder you updated the overviewerConfig.js?. 
+Well radio of some description, surely. 
+Not radio. 
+yes. 
+I said telecoms. 
+alchemist9: because we all know what a big audience i386 is vs the fringe processors like xscale core-2 and opteron ;). 
+heres a hint, you need a PAD to use it. 
+can you provide me a link?. 
+http://images.4chan.org/v/src/1340392888239.jpg. 
+Hmmm. 
+success. 
+if you're just refreshing, overviewer will refresh to wherever you last were. 
+(packet assembler/disassembler). 
+Oh wait, this might all be because I did something wrong.. 
+falconindy: does usb have to be in front of filesystems if root is on a usb?. 
+livecd, mount filesystems, pacman -r .... 
+wait...xscale is one of the antique arm variants isn't it... errr.  I mean ARM8. 
+http://server.mc-pixelcraft.de/map/. 
+g00s: interesting. I'll conduct some tests.. 
+s/8/9/g. 
+comment response from minecraftpg5. 
+well to someone like me that is not a font snob, fonts in linux are no different than fonts in any other os. 
+cindyfalcon:. 
+Is it some kind of crusty older than the hills dialup type thing?. 
+if I render the map new will it owerwrite the js files?. 
+r3dLunchb0x_: if I was, I couldn't talk about it :p. 
+err. 
+looks all the way zoomed in now... looks good.. 
+indyfalcon?. 
+Getting warmer. 
+no. 
+timoto, yes. 
+it would. timoto, there is a solution, but its a little bit of a hack. 
+birbeck: for a while, i think freetype did not use font hinting, and they looked terrible. 
+neither filesystems nor usb have a runtime hook. 
+Hmm. 
+anyone. 
+?. 
+but i think that was years ago. 
+birbeck: with a side-by-side comparison, most people will see the difference, especially in windows. 
+g00s: yeah, that was in the 90's. 
+serf_: so you only upgraded curl? smart man. 
+'little bit' being a little understatement. 
+i didn't think so. 
+thanks. 
+alright, this time after a reboot, the data I wrote to the disk for testing is still there....as you'd expect from sort of permanent storage >_>. 
+serf_: _Always_ -Syu when installing! https://bbs.archlinux.org/viewtopic.php?pid=802661#p802661. 
+phsi: i was trying -Syu and it updated pacman then curl. 
+I agree. Safari renders my artifact test better than Chrome does. 
+XFree86 and Gnome 1. 
+now i get the glibc error. 
+Doesn't Chrome render to a canvas or so?. 
+Oh yay, SyncFirst?. 
+well that is curious. Probably fucked up alpha blending by not using component alpha. 
+serf_: w8. 
+when i tipe in the command to render the new chunks will be rendert ore?. 
+timoto, what you could do if your stuff doens't change much... write a script to call overviewer on your schedule you define, but immediately following copy over the overviewerConfig.js file with a predetermined one that you've changed the settings in. 
+in pixman terms. 
+pacman -S tzdata. 
+http://www.anandtech.com/show/6002/chrome-canary-fixes-rendering-issue-with-retina-macbook-pro. 
+keenerd: should have thrown an error i think. 
+Sick`: no, just needed to say no to updating pacman first. 
+tanks. 
+g00s: yes. I'm inclined to agree. Correct font rendering is tricky.. 
+be aware that pironic's suggestion will cause problems if your map grows too much. 
+alchemist9: I have a color-next pizza box in my office.. 
+samster34: lol. well if you're not then I would think creating several partitions on it and filesystems would overwrite anything *important*. 
+hello , when i run synaptic or gdebi it always run as superuser without prompting to a password , anny suggetions how to make the password prompt back??. 
+that was the tzdata one. 
+kyle__: like I said I'm a sucker for antiques.... 
+alankila: not being an expert, i heard it was something along the lines of safari using native font rendering routines, while chrome renders to some canvas using something else. 
+No. 
+r3dLunchb0x_: there's also the option of using the ata secure erase command, but I don#t think you can monitor the progress of that at all :/. 
+very true.. 
+i did p -Syu. 
+ hello , when i run synaptic or gdebi it always run as superuser without prompting to a password , anny suggetions how to make the password prompt back??. 
+But it is TCP/IP related. 
+he must have pacman -Sy pacman, or tried to force the update. 
+proby: hit CTRL+ALT+t, then type 'whoami', then ENTER. 
+kyle__: that is impressive.. 
+g00s: Chrome uses Skia. 
+Damn it. 
+the map im rendering is a backup i wont can youse the orginal when the server is runnign ore?. 
+HMm. 
+it works on my test server because its a constant size. 
+(also used by Android). 
+but I can see certain types of darkening artifacts which remind me of the linux rendering results except not halfway as horrible when chrome draws some colored text images. 
+serf_: pastebin your logs. 
+Sutekh : If you don't mind me revealing.... 
+Mortvert, Thanks, for bringing the orginal link. 
+Is it just the predecessor to tcpip ?. 
+Earnestly: zomg i have something terrible for you. 
+I totally forgot where that was. 
+proby: you have probably modified your sudoers file, verify the contents by doing visudo. 
+timoto, if you have backups then rendering from a backup is a good idea. 
+reisio am the user. 
+http://www.earslap.com/projectslab/otomata?q=10_0_150_642651373773120841 Try mine. :3. 
+r3dLunchb0x_: When I get some of that mythical "downtime", I'm going to hook it up to the network, try it as a daily use terminal.. 
+VibrantWave - is that sarcasm?. 
+rendering from a live map works, usually, but sometimes it doesn't in interesting ways. 
+As long as it doesn't use much bandwidth atm. 
+No. 
+tyler_d yes i had modified them. 
+http://en.wikipedia.org/wiki/X.25. 
+I'm serious. 
+proby, try to investigate whether the NOPASSWD option is set for you by running something like 'sudo visudo'. 
+argh. 
+I fail. 
+safari results are not bugged the same way though, in fact this indicates that I will change browser right now.. 
+proby: what does it say. 
+well there's that. 
+I forgot orginal link to otomata. 
+it's just links dumps. 
+um. 
+kyle__: that would be awesome. ;-). 
+gtmanfred: so?. 
+debianuser. 
+click copy the link to piece. 
+and I thought it was OS X font rendering that had the bug.. 
+which ones gtmanfred. 
+IT'S RIGHT THERE. 
+but it's miserably slow for me and idk if it's the shitty network here or my code. 
+serf_: pacman logs. 
+i'm trying to find a reliable speedtest to test my internet speed from my ubuntu server. 
+oert: In settings>reading I believe. 
+anyone know anything that works from a command line interface?. 
+Dude. 
+When I manually add my printer there are many model lines. How do I figure out which one is the right one? There are 4 with the same model number as the printer. 2 contain hpcups, 1 has Postscript, and the final has hpijs.. 
+oh, he actually updated pacman. 
+and make sure your bootloader and fstab are correct. 
+thanks. 
+I have installed emacs 24, but it comes in the name of emacs-snapshot. How can I symlink it with emacs? Thank you.. 
+I just need some coffee. 
+:P. 
+I was going to say that! :P. 
+they are. 
+no problem, good luck :). 
+can some one here german?. 
+Never use -f along with -u. 
+I has random question. 
+this was with initcpio already built. 
+can some one answer http://wordpress.org/support/topic/short-codes-with-in-short-codes-with-in-short-codes?replies=1. 
+Eximius: go check, and re run mkinitcpio. 
+tyler_d am having debianuser ALL=(ALL) ALL is that wrong??. 
+how hard is it to write code for a GPU?. 
+nein. 
+tried to go downstairs, all 3 elevators wouldnt work. 
+zendeavor: I'm at 30k/s atm, so no point me testing "network speed" :p. 
+did 2 or 3 times. 
+now. 
+Dinnerbone - please, please, please, fix the extreme hills rain sound :v. 
+gtmanfred: http://pastebin.com/N6wEm3ip. 
+Title: [2012-01-30 03:51] installed gnome-games (3.2.1-1) [2012-01-30 04:43] Running ' - Pastebin.com (at pastebin.com). 
+Krolli: thats a good question. 
+i have a program and it works by doing many simple simulations. 
+The fun thing is. 
+someone intentionally shut down the elevators. 
+Sick`: btw, the solution is not -S tzdata, it is just to say no to updating pacman first. 
+Mortvert: Imma kick you. 
+sehr sehr witzig. 
+Earnestly: tbqh that's probably faster than what i've got here. 
+proby: you will need to restore from a backup, or alternately I would suggest reading the manual... man visudo. 
+allstruck.. So everytime I add a post I have to completely change the code of my site?. 
+It is almost certainly the wrong solution, but I'd extract the old curl package to root.. 
+i was wondering how easy or hard it would be to make it use the GPU. 
+Mostly no matter what you press in Otomata, it's going to sound good. 
+but. 
+what the hell. 
+SirCmpwn - and i'll +b you. 
+[2012-04-08 09:40] Running 'pacman -Sfd pacman'. 
+gtmanfred: test it for me. 
+because its EMBARRASSINGLY PARALLEL <- lol.. 
+what?. 
+we have a few people here that can speak german. 
+Mortvert: IRL, I mean. 
+okey. 
+proby: that does however look right. 
+I dunno if any of them are online. 
+where do you lve. 
+Burn his house down. 
+*i. 
+http://bel.fi/~alankila/lcd/lcdosx.png is what the rendering looks on chrome. 
+Can someone see this? If no one has any advice on my cups problem that is ok but I would like to make sure I am identified with the server and my messages are going through. Thanks.. 
+With combustible lemons. 
+poland, you have my city. 
+r3dLunchb0x_: Lenovo t520... using the trackpoint, trackpad off in bios. This always Just Worked.. 
+thanks. 
+Krolli: I am almost 100% certain there are SDK's out there for doing that stuff. 
+Rest is your problem. 
+the bottom is chrome, you can see dark smudges in the sample text, another similar anticolor test as the red-blue thing I had before. 
+Krolli:  have you looked at the code for hoe BOINC does it?. 
+*how. 
+but these dark smudges do vanish in safari entirely. 
+OverExposed: Wha?. 
+I dont know what BOINC is.. 
+if the channel doesn't tell you, you're not mute. 
+top is?. 
+The brain is 1256 lines lonh. 
+as i understand it, it's because the OS is lying to the apps about the screen resolution. 
+gtmanfred: true, logs were from a specific moment I couldn't do that afair. 
+*long. 
+i cant use pacman. 
+Sounds like a bouncy ball noise. 
+Is there a way to tell when the soft keyboard comes on and off the screen?. 
+top is my javascript algorithm which does component alpha blending. 
+try unidentifying for shits and giggles. 
+serf_: why is there a 30 day difference in your logs.... 
+i have an ideer for the next updait add an user list to the side. 
+Nice. 
+hi. following an advice i got yesterday i downloaded and started modifying the Orion gtk3 theme. but i can not figure out how one sets icon sizes for things like menu-s and toolbars.. 
+r3dLunchb0x_: apologies for blip, was restarting X and took a sec to realise it wasn't spotty cell service and that somehow I needed to restart network-manager. 
+zendeavor: Ok thanks.. 
+timoto, have you looked at the addons?. 
+That sounds like a no but I wasnt following your chat. 
+lol @ fr0d0's quit reason. 
+curl -F 'sprunge=<-' http://sprunge.us < /var/log/pacman.log. 
+i've actually already written it.. 
+i was gone gtmanfred. 
+AllStruck: thank you :). 
+Berkley Online Interface for Network Computing. 
+Heh, pacman -Sfd pacman.  Fun times.. 
+err we. 
+ctate: Yeah, I heard so.. 
+ctate: on the new retinas?. 
+What is your goal OverExposed ?. 
+lol. 
+lolboned. 
+But games detect the real resolution. 
+no where can i find the addons?. 
+I proved to myself that I know what I'm talking about by implementing the "perfect" algorithm first in javascript and then testing the various systems for their implementation quality. 
+https://github.com/overviewer/Minecraft-Overviewer-Addons. 
+on the retina-display devices & computers. 
+(the program that looks for Little Green Geeks with shortwave sets ;). 
+also bitcoin miners use it. 
+someone shut down the elevators in my building :(. 
+I'd probably spot you, i live near main road. 
+INTENTIONALLY. 
+Q-bit: enough with the stalking bs. 
+Mortvert: don't highlight DB all the time :P. 
+the one you are looking for is PlayerMarkers. 
+new API needed to see the true resolution. 
+dav1d - :P. 
+Q-bit: so use the stairs. 
+its creepy and sick. 
+Hello could someone answer me a quesiton about a non-ubuntu live cd. 
+jsoft i cant walk. 
+It's only when he's semi-active. 
+Q-bit: Elevators fail for all manner of reasons. 
+serf_: looks like it has been broken since before you left, get an iso, chroot and update everything. 
+http://bel.fi/~alankila/lcd/lcd.png is an older and slightly buggy version with linux and windows side by side. 
+Kazurik, yeah, we can see your posts. But, IRC is a protocol of latency, people will help when they can. 
+Q-bit: whys that?. 
+unless you run windows :). 
+thanks how i can install it?. 
+let me grab a link to the code. 
+qcoder00 no, someone was making sure i wouldnt get on them. 
+Q-Bit: You are physicaly in a wheelchair?. 
+you can see that linux font rendering is simply terrible compared to the competition. 
+at least thats what it seems like. 
+skomorokh: its all good. I have encountered different issues with ubuntu update from 11.04 to 12.04, so just giving you what I figured out for those items. 
+is there a guide gtmanfred. 
+magic. 
+https://github.com/overviewer/Minecraft-Overviewer-Addons/tree/master/PlayerMarkers. 
+^ http://goo.gl/b62DB. 
+Okay. 
+could someone answer a question about a non-standard Fedora Live CD?. 
+# lsinitcpio boot/initramfs-linux.img | grep usb. 
+./usr/lib/modules/3.4.3-1-ARCH/kernel/usb-storage.ko. 
+./usr/lib/modules/3.4.3-1-ARCH/kernel/usbhid.ko. 
+./usr/lib/modules/3.4.3-1-ARCH/kernel/usb-common.ko. 
+./usr/lib/modules/3.4.3-1-ARCH/kernel/usbcore.ko. 
+serf_: yo dawg! I heard you like linux, so I put linux in your linux so you can linux while you linux. 
+based on Fedora 16?. 
+Time for a little session in FL Studio. 
+Q-bit: Paranoia is treateable you know. 
+gtmanfred: as you can see. 
+colored and smudgy. Not a good result.. 
+is there an event that can be registered for for when the value of Display.getRotation(); changes. 
+Q-bit: the paranoids are after you?. 
+serf_: https://wiki.archlinux.org/index.php/Change_Root. 
+alankila: http://images.anandtech.com/doci/6002/Screen%20Shot%202012-06-12%20at%206.11.10%20PM.png. 
+hi, how do I use python2 instead of python3 in emacs by default ? I'm trying to use pymacs in emacs with python2. 
+lagger: #fedora ?. 
+no its not paranoia, elevator came up to the floor when it wouldnt move before. 
+http://pastebin.com/DVHDefpw. 
+aheadley: is that url shortner really useful?. 
+dav1d: link me to that comment pls. 
+s0m3nak3dguy: try bringing both rtl interfaces down then bringing your problem device back up and connecting the device, I got to jet... 
+Question: how to fetch rows from a content provider in batches?. 
+OverExposed: What is the goal?. 
+chrome, chrome canary, safari. 
+all 3 elevators should NOT BE DOWN. 
+Erm. 
+what do you guys think of Cinnamon?. 
+redstonehelper: what comment?. 
+I'm exceeding the 1MB limit. 
+Q-bit: so it's working now?. 
+when I tryto join #fedora, it says "#fedora-unregistered". 
+HalosGhost: Yeah I was just making sure. Like I said if no one either knows or if they are busy that is cool. If on the other hand I can't even ask, well, then I have a whole other set of problems to google!. 
+mcpg5. 
+serf_: Did you ever let any of those -Syu commands finish?. 
+oh. 
+r3dLunchb0x_: yup yup... this was on 12.04, thses are just updates from the last week or so. 
+i like this [2012-04-08 09:40] Running 'pacman -S package-query'. 
+That's why I asked here, in the off-topic channel. 
+alchemist9: will try again, thx for the help and consideration. 
+lagger, ask in the the distro distro support chat. 
+is there a way to add a LIMIT clause to the query?. 
+all i want in my life is to meet meghan. 
+Guys, are there any good refactoring / code cleanup tools for Android / Eclipse? I'd love to know which classes / Activities / Strings / resources aren't being used anywhere, etc.... 
+isnt that in archlinuxfr?. 
+lagger: /msg NickServ help register. 
+thats it right now. 
+where is the distro distro support chat. 
+yeah. 
+http://www.youtube.com/watch?v=N6sPzFUrLqI&lc=GHupacmO45GQgYF0A81C_dSgVaVj2vGUSGza-y8Tysg&lch=email_reply&feature=em-comment_reply_received. 
+and read the topic of #fedora. 
+im not joking :(. 
+Chronax: Lint. 
+no keenerd they would fail half way through because my net connection sucks. 
+I did, I asked in #kororaa, no one is there. 
+redstonehelper: ^. 
+or her family. 
+k thanks. 
+Kazurik, that's perfectly fair :) Sadly, I am not very familiar with CUPS. 
+The idea is that I have section and sub sections, these are defined by custom taxonomies. I don't want the section or subsection headers to display if there are no posts associated.. 
+Right.. 
+just to pop in to say hi. 
+Thanks, evancharlton. 
+err just distro. 
+and IntelliJ. 
+serf_: -Suw is your friend.. 
+does anyone know what "key not found. key=[group-visible]" logcat warning means? I'm working with contacts, but dont do anything with 'group-visible' thing.. 
+serf_: remove [archlinuxfr] from pacman.conf. 
+to remove me from the liars list? :P. 
+all I want to know is how to open a terminal. 
+falconindy: see how some chroot helper scripts would come in handy? ;-). 
+Q-bit: im sure the elevators will be working soon.. 
+really not interested in elevator issues. 
+Stop being paranoid.. 
+beat = brownan. 
+i say yes. 
+Right now it just displays all of the possible sections and subsections and their associated posts.... 
+So, waaassaaap. 
+;). 
+g00s: it looks a bit strange that the font weights seem so much lighter in the experimental chrome. 
+Sometimes they get serviced/checked. 
+jsoft:  Sadly it's not always easy for someone that is an paranoid state to accept it... 
+jsoft no,. 
+http://www.anandtech.com/show/5998/macbook-pro-retina-display-analysis 'You'll notice that OS X doesn't, by default, expose the Retina Display's native 2880 x 1800 resolution anywhere in the standard, user-facing elements of the OS.'. 
+There are times when I don't want a sub section or a main section to display, as apposed to saying "sorry there are no posts in this section right now". 
+I SAID ALL IWANT TO DO IS KNOW HOW TO PEN  A TERMINAL. 
+no. 
+lagger: ctrl-alt-t. 
+wtf is this archlinux-keyring update? *ignores*. 
+can some one answer http://wordpress.org/support/topic/short-codes-with-in-short-codes-with-in-short-codes?replies=1. 
+subjectivly I don't think that is correct, the weight appears clearly different.. 
+.. especially when the media puts out all kinds of myths about how mental health patients are treated. 
+Eximius: do you have an actual error when booting now, because you never actually told me what it said, just that it stopped. 
+it happened 2 times already, due to malfeasance. 
+ZekeS: has mine :-(. 
+romainguy: Do you personally use IntelliJ?. 
+at least i speculated that. 
+it was really weird, I was asking all over for an OpenGL live CD, and found two... but no one else could answer, I was superior to them. 
+http://pastie.org/4134489 I keep getting this error when I try to load a vm in virtualbox, i've tried pacman and AUR virtualbox-bin, disabling the bridged-networking allows it to boot, but i need bridged networking.. 
+Title: #4134489 - Pastie (at pastie.org). 
+gtmanfred, geez, you are the goto guy eh?. 
+gtmanfred: thatsthejoke.jpg. 
+kakazza: at work and at home yes. 
+gtmanfred: oh so you've become TU?. 
+malfeasance lol. 
+gtmanfred: it cannot find it's root. 
+then i get dropped into emergency shell. 
+Q-bit: why would anyone be interested in turning the elevators off just to piss you off?. 
+chiuki: if the cp supports it, you pass it as a Uri parameter. 
+demonicm1niac3: http://www.archlinux.org/trustedusers/#dwallace. 
+Is the transition from Eclipse to IntelliJ hard?. 
+.c do_shortcode > Salacious. 
+Salacious: http://codex.wordpress.org/Function_Reference/do_shortcode. 
+Title: Arch Linux - Trusted Users (at www.archlinux.org). 
+and i ls /dev. 
+and see no usb. 
+gtmanfred: congrats \o/. 
+drive. 
+return do_shortcode($content);. 
+thanks :-D. 
+.tell LyokoFreaks Charting is sooooo much easier with stems. 
+i am just starting irssi, nickcolor.pl does not seem to do anything. 
+RemTar: I'll pass that along.. 
+jsoft dunno. 
+no usb drive (wherein kernel resides). 
+so i dont meet meghan perhaps?. 
+"Kororaa was born out of a desire to make Linux easier for new users" :p. 
+who knows. 
+rofl. 
+Eximius: I still say check your boot loader for the root=UUID= uuid :-/. 
+I switched to IDEA after first 2 weeks of codind in Eclipse. 
+Why would they worry about that?. 
+gtmanfred: and. 
+not that i know where she is. 
+exetron: #irssi. 
+g00s: example?. 
+the stalk walk. 
+coding*. 
+somebody fucked up XD. 
+or she gave permission. 
+lol nice.  More people in #defocus-uncensored than in #defocus. 
+/dev/sdb1        7796612  2140096   5265416  29% /media/2a904a0a-7385-4aec-ac69-7538e0093346. 
+gtmanfred: look closely at other contact. 
+^ now mounted. 
+i might understand. 
+josoft:  Uhhhh maybe cause of who her dad is. 
+#fedora , maybe lagger. 
+Sounds like you need to run a query for the taxonomy and count the results... If 0 don't show... That is going to slow your page a lot though. 
+reisio: If tyhey wanted to ease the way, they should offer better online support, apparently. 
+who knows. 
+Sutekh: So you know about those signs on the lion cage at the zoo? XD. 
+g00s: also, how do I know if the content provider supports it?. 
+OverExposed: ^. 
+i have no clue. 
+Hi guys I hired someone to bring changes from my website over to my WP install and create a child theme, but I went to make some changes to some code and noticed that he made changes to my header,php file ...ahhh, that strikes me as odd.. 
+kernel /boot/vmlinuz-linux root=UUID=2a904a0a-7385-4aec-ac69-7538e0093346 vga=0x3F0 nomodeset ro. 
+lol. 
+genii-around: or actually ease it :p. 
+but then again, IDK. Pretty strange.. 
+fris, i read the code but it was confusing. 
+Whaaaaat, Q-bit?. 
+gtmanfred: are you a TU now?. 
+What are the main benefits? The ADT has come a long way and are tools like DDMS and others available in IDEA?. 
+jsoft just seems like it was intentionally. 
+gtmanfred: and as i said. 
+yes. 
+DigitalKiwi: fixed. 
+err intentional. 
+gtmanfred what's it like being a TU?. 
+er demonicm1niac3 fixed. 
+well shit there goes the neighborhood. 
+:|. 
+ddms is a part of sdk, you can run it in any time. 
+in the ramfs there is no dev/sdx for the drive!. 
+... JunkBee too soon. 
+chroot helper I started today: http://pub.devbox.be/tmp/chroot-activate. 
+Sounds pretty far fetched.. 
+;p. 
+see everything i say someone says the opposite. 
+OverExposed: You could get away with doing that if you use caching or just throw CPU and ram at it. 
+gtmanfred: I get that a lot :/. 
+2G. 
+lol. 
+G6. 
+jsoft: Have you ever dealt with mental health cases ?. 
+lol. 
+Ring up whom ever is in charge of your building and go 'bro your elevator is lagging out'. 
+gtmanfred: still shows rc instead of irc here XD. 
+chiuki: you don't unfortunately. presumably this is not your provider. if it does not support it, you can put the limit clause on the sort clause :/. 
+X3 xD. 
+jsoft:  ive had a problem with the management firm before. 
+Argh... I wish there were a way to have certain fields hide when the virtual keyboard comes up (non-hacky way).... 
+i wanted it changed. 
+g00s: actually I wrote the content provider myself. 
+Salacious in your shortcode instead of return $content just add a do_shortcode then shortcode within a shortcode will work. 
+thats prolly why. 
+No,im using 2g data :P. 
+JunkBee: http://xkcd.com/1068/. 
+Title: xkcd: Swiftkey (at xkcd.com). 
+Qcoder00: Not really... why?. 
+I just upgraded from 11.10 to 12.04.  When I log into the terminal, I now get to see some stats about the server.  Is there a command I can run to print those stats on demand?. 
+Well I understand that I need to find a count... THAT is my question. 
+gtmanfred: also -> euler.git solutions to problems form http://projecteuler.net. 
+HOW do I count the posts in a taxonomy. 
+Giddeon: stat. 
+I sort of like the middle text more. It looks more readable to me. Could it be that the way safari deals with retina is designed to preserve the earlier font shapes more accurately -- hinting -- while the chrome design renders the glyphs more accurately. 
+Title: Project Euler (at projecteuler.net). 
+FORM. 
+within this context. 
+i dont want to obsess over basic elevator issues, i just wanted to meet meghan. 
+really!!!!!!!!!!!!!!!!!!!. 
+Giddeon: uptime, sar, top. 
+what?. 
+please look at my code again. 
+http://pastebin.com/DVHDefpw. 
+solutions to problems form.... 
+oh, then it should be easy - but i'm surprised about the error you are getting. a long time ago, i knew that cursor windows were limited to 1mb - but thought that if you reached that, you are in trouble. i *thought* later that the shuffling is all managed under the hood. 
+htop. 
+Giddeon: uptime. 
+lol Qcoder00 yeah pretty much. 
+from. 
+loool. 
+alankila: note that they use two different types of antialiasing too. 
+oh ok. 
+I loop through my top level  taxonomy, then my low level taxonomy, then the actual posts. 
+XD. 
+dont feed the [insert being here]. 
+Giddeon: :p there are lots and lots :). 
+.weather. 
+thadood: .weather <location> [dontsave] -- gets weather data from Google. 
+might be clear what it is from /etc/issue or something. 
+Giddeon: htop, but you might have to install that via sudo apt-get install htop. 
+alankila: at least on the screenshot; Safari uses colored subpixel aa, while Chrome sticks to gray aa. 
+ooh neat. 
+.weather 38104. 
+g00s: oh I get it: I need to do something in the query() function. 
+thadood: Memphis, TN: Mostly Cloudy, 93F/34C (H:91F, L:72F), Humidity: 41%, Wind: NE at 12 mph.. 
+.weather. 
+Q-bit: perhaps go check your elevator again. Prolly working now.. 
+g00s: of my content provider. 
+thadood: Memphis, TN: Mostly Cloudy, 93F/34C (H:91F, L:72F), Humidity: 41%, Wind: NE at 12 mph.. 
+Sweet.. 
+Q-bit: Unless you dont _really_ want to be using it.. 
+that one is fixed but will take a minute. 
+romainguy: that is at least partially true. 
+I was wondering if there was a weather script. 
+I see both. This is even weirder. What the fuck.. 
+look just wanted to say hi. 
+rc will change eventually. 
+Q-bit: and are using it as some excuse to not go out.. 
+the only way I know how to associate posts and taxonomy is in the actual query for the posts. 
+chiuki: yeah, it should read the Uri query parameter "limit" and append it to the query or something. 
+pay respects. 
+Sutekh: Someone once put a sign like that up on a Theatrical stage. 
+the grey breadtext at bottom looks gray-antialiased, the black is subpixel. 
+jsoft no. 
+g00s: gotcha. thx!. 
+alankila: I'm talking about Chrome Canary. 
+Q-bit: oh hang on, you are still here! Not checking the elevator again. 
+fris what if I am doing return '<div>'.$content.'</div>'? would it be : do_shortcode('<div>'.$content.'</div>'); if I understand the docs right?. 
+hi. 
+alankila: oh yeah you're right. 
+How to I figure out the association higher up in my logic instead of the last conditional which does nothign, cause once that has happened my section and subsection headers have already been returned. 
+sorry for the code paste guys. 
+I NEED HELP!. 
+Hey Q-bit. 
+romainguy: yes. Looks like this work is not finished yet. 
+because this result is rather unexpected. 
+when will mesa get ST3C by default. 
+^As long as it's only one line its not so bad.. 
+that's really weird. 
+raggel: We all need help.. Just accept Jesus! XD. 
+oi, Q-bit. 
+I say you should rather patch your IRC client, that's a much cleaner solution-. 
+when you ask upstream that question. 
+hey. 
+Q-bit. 
+its been like that since ive moved in here. 
+falconindy: ok i'm going to do that now. 
+elevator problems all the time :(. 
+[23:09] <agrif> I dunno if any of them are online <-- sup?. 
+when there is a pledge that they won't get sued. 
+.weather South Pole. 
+How does one go about making an XP repair disc?. 
+how I start emacs with python2 instead of python3 by default ?. 
+how do I open Terminal in Fedora. 
+timoto was a german dude looking for help. 
+Thanks guys.  I just tried them all and nothing seems to match the output that's being displayed at login.  htop doesn't appear to be installed yet. 
+you missed it. 
+eturn '<div>'.do_shortcode($content).'</div>'. 
+I know. 
+14[15:18] *** timoto has quit IRC01. 
+Q-bit: so how come you cant use the stairs again?. 
+Giddeon: might be clear what it is from /etc/issue or something. 
+would something like this be kicked off by bashrc?. 
+hi, i have a gateway ma7 with a broad com wireless card that isnt. 
+working. 
+have issues walking. 
+But I've got no clue of player markers. 
+anyway maybe skia doesn't do component-alpha OVER operations when drawing text. 
+:|. 
+Giddeon: if it's after login, yeah maybe. 
+it had some kind of gamma correction, I checked it once earlier. 
+lame :(. 
+gtmanfred: so what the hell could be causing this. 
+understood. 
+if needed, you'd translate. 
+What issues, anyway?. 
+like Hatrix does from time to time. 
+zane78219: which card?. 
+but if it uses a single alpha per pixel then that would be where it goes wrong. 
+he's translated for me in past. 
+:). 
+diegoviola: at most s2tc will ever be in there. 
+hu ?. 
+because when you do subpixel text you need separate alpha per component. 
+issues walking?. 
+s3tc won't ever since it's patented. 
+about you, not to you Hatrix42 :). 
+You're canadian, why can't you speak french yourself?. 
+not intree upstream anyway. 
+Shame on you, pironic.. 
+wat. 
+yeah :(. 
+wat ?. 
+demonicm1niac3: eventually the patent runs out. 
+fuck, i hate patents. 
+dioz: He has a condtion which affect 'ambulatory motions'. 
+Skia has gamma correction. 
+demonicm1niac3: also i hope that's a terrible joke with s2tc. 
+with pixman, you have src, mask and destination surfaces, all which are separate. In my pixman demo I use sRGB surface and sRGB destination masked by linear-light component alpha mask. 
+What does that mean. 
+we need to kill patents and the people behind that shit. 
+wait how many offical langauges are in switzerland?. 
+and do you speak all of them CP!?. 
+reisio, bcm4311. 
+that's really not necessary. 
+could be due to the mccain/obama rift right now who knows. 
+https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx. 
+politics can cause shit to happen :(. 
+oh pironic, can you do something for me ?. 
+the freetype lcd-filtered text is direclty used as the mask. 
+pironic: wolfram alpha is confused: http://goo.gl/sSORg. 
+and Skia doesn't do alpha per component. 
+ping montreal.hatrix.fr. 
+i have no clue. 
+(at least that I know of). 
+sure, whats up?. 
+Ok you are a crack pot.. 
+but please, rant on as you always do.. 
+noppe. 
+nope. 
+I've got a server in montreal. 
+steps to success. 
+im just saying it just seems odd. 
+1) ask question starting with "when". 
+2) bitch about the reply. 
+the alpha channel of the freetype mask is ignored, and instead alpha is taken from the RGB values as generated by freetype. 
+i keep getting this error  http://sprunge.us/OahH. 
+And I want to know what's the ping there. 
+Italian, French, German and Romansh. 
+3) rant about nothing. 
+Im just saying you are a weirdo.. 
+--- montreal.hatrix.fr ping statistics --- 4 packets transmitted, 4 received, 0% packet loss, time 3002ms rtt min/avg/max/mdev = 77.026/77.310/77.583/0.278 ms. 
+see. 
+when trying to use youtube-viewer. 
+all the weirdos are on here. 
+4) .... 
+Or at least are doing a very good job of appearing to be one.. 
+fine, thanks. 
+i need people in person like meghan, her friends,. 
+falconindy: the point is that we are getting hurt, and we can't do anything, this desperates me a lot. 
+is there anything like cat, where i can have it park at the end of the file and just read updates?. 
+and others. 
+5) apologize when you realize that you've been acting like a collosal tardvark.. 
+Btw, will the Google I/O 2012 App be open sourced like the last one?. 
+(there's a screwy function in cairo that does the conversion from freetype bitmaps to ARGB bitmap). 
+:(. 
+So get off your arse and go see her.. 
+i dont know where she lives. 
+I want to know what Google did to backport the Actionbar.. 
+3002ms seems high. 
+demonicm1niac3: Urban Dictionary: Tardvark: <http://www.urbandictionary.com/define.php?term=Tardvark>. 
+tried to contact :(. 
+oh total. 
+Well then what are you bitching about. 
+ha. 
+kakazza: I believe it uses ABS. 
+yep. 
+lol tardvark. 
+awwww. 
+What difference does the damn elevator make. 
+maybe you should realign your priorities in life if you're feeling hurt by lack of a rendering algorithm.. 
+i wanted a rendition of one. 
+getting out of here thru the elevators. 
+CP, you speak all 4?. 
+That's what I was wondering.. 
+like a drooling aardvark. 
+No.. 
+Will it be open sourced?. 
+falconindy: hey i didn't offend you, why are you calling me names now. 
+half?. 
+But you can't even speak two of yours.. 
+reisio, no luck I tried that already. 
+lol!@. 
+jsoft: You know those signs they have at the zoo?. 
+Do go.. where? Wander about in the streets calling 'meghan' ?. 
+i was just thinking. 
+". 
+offend? no, you're just annoying as hell. 
+Yes, I'm not good at french, but yes.. 
+"1) A person who can't tell the different between necrophilia and narcolepsia.". 
+define no luck. 
+prolly lol. 
+so you can speak half of your offical langauges... so can i. 
+jesus is responsable for more death than hitler. 
+Not fluently but I can read it.. 
+:). 
+forget it. 
+no change, iwconfig shows no wlan. 
+#justsayin. 
+you're no better than me. 
+from the play page. 
+"Source code for the app will be available soon at http://code.google.com/p/iosched". 
+ymmmm a nice greasy salt pork sandwich. 
+Qcoder00: yeah dont feed the monkey crack. 
+u wouldnt understand. 
+pironic: tell that to a south african and he'll punch your damn face in. 
+falconindy: so use /ignore. 
+this place is like the clueless. 
+when i do that, it ends up being the channel wide ignore.. 
+They've got like 20 official languages. 
+Q-bit: try getting a job, going outside, TAKING YOUR MEDS. 
+christ. 
+brotatos: rebuild perl-xml-fast. 
+lol. 
+Q-bit: obviously. Your logic reigns supreme.. 
+thank you. 
+Official language: Afrikaans, Zulu, Xhosa, English, Tswana, Sotho, Southern, Sotho, Northern, Tsonga, Ndebele, Venda, Swat. 
+..what. the .. fuck. 
+phew all caught up on xkcd now. 
+Was that guy serious?. 
+http://www.worldofkronos.com/pics/zardvark.jpg. 
+13.. 
+How can i include a wp call in my php echo?  ie; echo '<a href="$permalink">';. 
+o.O. 
+hadn't read it in a few weeks. 
+he's like the male sookie2. 
+Afrikaans is for some odd reason really similiar to swiss german. 
+diegoviola: are you wildly offtopic again. 
+Or was I trolledo. 
+jsoft: Sadly all people with mental health issues think they are being serious. 
+he's been enflicting his mental illness on freenode for years. 
+can i have some crack?. 
+Is he a regular here or something?. 
+:P. 
+firecat53: thanks. 
+how do i change directory to my usb stick in temrinal. 
+pizabpr: erm.. tail?. 
+heh and i cant install the netboot because my laptop goes to sleep and it kills the installer. 
+blegh. 
+sudokode: most people in this channel are, so what if i am?. 
+jsoft: he's been at that meaghan stuff for a very long time. 
+I'm convinced trolling is a mental disorder. 
+s/french/freedom/. 
+echo '<a href="' . get_the_permalink() . '">foo</a>';. 
+i'm still not sure how to handle abs & froyo; if i follow the icon guidelines and my ab icons are #ffffff @ 80% transparency, when they are put in the options menu panel they are essentially white on white and look terrible. 
+thanks for that. 
+use periods so echo '<a href=".$permalink.">";. 
+What the fuck.. 
+fight!. 
+That's some weird shit.. 
+i guess this is not a problem with GB since its options menu panel is black. 
+Does anyone know how to figure out how many posts are associated with a taxonomy term. 
+Our official languages are Finnish and Swedish. The latter because Sweden used to pwn Finland and there’s still a vocal 5.4 % (i looked it up) minority of Swedish-speaking Finns.. 
+diegoviola: I dunno. 
+fuck off. 
+Anyways, back at the ranch, time for a coffee, and some operator< overloading. 
+i will say whatever i want here. 
+HI. 
+if you don't like it, use your fucking ignore. 
+ours are English. 
+well. you won't. 
+I installed Ubuntu on my laptop.. 
+So it's like as if they would have german as official language in poland?. 
+we'll just kick you. 
+but Spanish might as well be on the list too. 
+get posts based on the term, count. 
+It might just fix that elevator compile error, you know.. 
+thanks!. 
+thusly. 
+But now it won't boot. 
+I get a black screen and a blinking cursor. 
+counterpillow: I suppose so. :-P. 
+i also can't find a way to change the froyo options menu panel color myself; even if i could it seems like a bad idea. 
+So I have a question for you guys: (keep in mind I created this theme, also keep in mind I have NO caching) Every time I update or change the options for my theme, it reverts the style.css back to a file thats well over two weeks, breaking the whole site. It forces me to upload the new style sheet everytime I update the options in the options panel of my theme. What would cause this?. 
+anyone good at math? how does 100 - 25 * 3 % 4 = 97. 
+yes. 
+hehe. 
+ioni: you take forever. 
+haha. 
+i noticed iosched has the same issue, so i'm guessing there is no resolution. 
+nice of finland. :D. 
+$q = new wp_query( array( 'custom_tax_name' => 'mytax', 'post_status' => 'publish' ) );. 
+i think.... 
+counterpillow: And the German-speaking Poles being proud of German being an official language.. 
+Thanks. 
+Does anyone know how to figure out how many posts are associated iwth a taxonomy term without querying them. 
+:>. 
+ahh screw it, i should move on anyways. 
+I found on google that if I will hold shift button during hold that will get me to GRUB, but that doesn't work.. 
+25*3 = 75, 75%4 =3  so 100-3=97. 
+That will cause me to query about a billion times,. 
+sadly he's not a troll. 
+Oh geez, imagine what political controversy that would cause. 
+auto-rejoin ought to be a bannable offense!. 
+so falconindy calls me names and i have to watch my language?. 
+fuck you. 
+phsi, +1. 
+phsi: pfft. 
+it is, technically. 
+machicola, see?. 
+g00s:  does using light theme vs dark theme make a difference?. 
+Eximius: no idea any more. 
+I'd rejoin anyway. umad?. 
+machicola: you have to tell it what part to do first with ()'s, or it will do the math it's own way and some of those get parsed before others.. 
+:). 
+MrElendig will do it. 
+machicola: ##math. 
+i mean, obviously the forward-looking path is to just drop froyo. 
+sigh. 
+lol. 
+no, im a mathematician. 
+or at least i've seen him do it. 
+i can explain. 
+he loves me too much. 
+diegoviola, chill out, this is irc. 
+if he would reply. 
+children, behave. 
+it's so frowned upon there are even scripts that auto do it. 
+i would be dropping my phone :P. 
+lol. 
+yeah, i wish i could say minsdk = 14. 
+its offtopic for *this* channel though. 
+but froyo is so two years ago. 
+demonicm1niac3: who are you and what have you done with demonicmaniac3. 
+well i answered  him anywya. 
+^^^ this. 
+sudokode: юмяд?. 
+i really don't want to ban anyone tonight. 
+demonicm1niac3: other contact is fixed. 
+I wish minsdk=14 was possible without leaving 80% of the market behind.. 
+yeah. 
+whats the non pretty url structure for an archive page for a given category?/. 
+DigitalKiwi: what's the timeout on those?. 
+gtmanfred: :). 
+And the German language being a mandatory subject in all levels of education.. 
+kevlarman: "What?" They speak English in What?. 
+OverExposed: when you use get_terms() each term has a property called count which has the number of posts it contains. 
+My VPN service keeps failing to start. 
+ok sorry for that. 
+how can I fix this. 
+sudokode: they are configurable. 
+usually. 
+category/some-category/. 
+oh yeah! thanks barry.... messed up by looking at the remainder as a fraction of the dividing number. 
+i dropped my phone display side down from knee high on to solid brick floor (dunno the correct word). 
+im just reading a reddit thread that triggers a papper i had to write in theology ... makes me want to ask your thoughts... What was the single most influencial invention in the existance of humanity.. 
+expected cracked hell. 
+gtmanfred: russian phonetic spelling of "umad". 
+BUT NOTHING!. 
+ok, well, i'll just leave it, assuming fewer and fewer people will see it. 
+not even a scratch. 
+...i know my answer.... 
+thank god for gorilla glass. 
+how ya think?. 
+i was doing 75%4=.75. 
+doh. 
+use brackets if u want that. 
+Hi. can anyone point me in the right direction. I'm trying to use emacs and org-mode while not under X. And when I press Alt Right arrow I switch to the next TTY. Where can I find how to deal with this?. 
+let me just go jump off a cliff now. 
+sounsd like guerilla gorilla glass advertisement. 
+> theology. 
+and the cycle is complete.. 
+until next time.. 
+nope.. 
+pironic: The club?. 
+you can just tell it to hide empty terms too. 
+lol!. 
+Yeah, we also try to support Froyo as much as possible. But sometimes it's just not economic.. 
+:D. 
+http://lists.linux-foundation.org/pipermail/ksummit-2012-discuss/2012-June/000304.html yay. 
+falconindy: sorry about that. 
+Title: [Ksummit-2012-discuss] [ATTEND] NVIDIA education, and embedded architectures (at lists.linux-foundation.org). 
+Ravenheart: well, that's because there was no piercing damage. 
+i apologize. 
+just saying it really worked :). 
+my answer: soap. 
+i just feel we need to fight for our freedom. 
+falconindy: hahahaha, you totally called that. 
+that was part of the cycle…. 
+diegoviola: ioni wanted you to have this cookie.. 
+specifically... hygene. 
+pironic: is that thread by any chance over at r/atheism? :D. 
+lol, no. 
+wtf. 
+redstonehelper: oh I am still on it? :P. 
+its a askScience thread. 
+DigitalKiwi: dude, its the same thing every fucking time. 
+Hey Keshi. 
+sad :(. 
+http://i.imgur.com/RVF0H.jpg. 
+Has anyone ever tried that write your own app AIDE? do you think this app is sufficient enough to figure out how create something that will record from both cameras on the phone?. 
+pironic: IRC.. 
+i won't do this again. 
+this is why we can't have nice things!. 
+lol. 
+carry on machicola. 
+How do i do this though. 
+but i feel we need to fight together against the patents. 
+all i see is orderby=count. 
+slie: I doubt you can connect to two cameras at once. 
+think about soap though.... 
+this is all i'm saying. 
+go fight together with the fsf, and do it in the right place.. 
+Which orders by the amounts of terms?. 
+Hi KingFisher.. 
+ok. 
+How does pressing shift key to get GRUB work?. 
+Well I guess i'de like to figure out why and understand it i guess. 
+it prevents people from dying, it allows us to make clean rooms, and electronics as a result. 
+I'm not going to think about soap. The sheer thought of soap kills my boner.. 
+Prison showers aren't fun, fan.. 
+I am pressing the shift key but I don't get GRUB.. 
+can I register a event on for a change of rotation on the main Display (not onConfigurationChanged as that doesn'. 
+there's an example on the codex page. 
+?. 
+t seem to get fired for landscape to seascape). 
+I'm about to do a great favor to everyone. Mostly for guys. Truth. http://www.youtube.com/watch?v=qqXi8WmQ_WM. 
+I don't understand how you reference this count property you are talking about and would appreciate it if you could help me figure out the actual syntax for refrencing this number. 
+ok. 
+pironic: it dissolves fats and many other things do that too, like alcohol. 
+everything you use or do in a day was inpacted by soap. 
+$term->count. 
+give me a lot of money and i'll sue everyone!. 
+hello?. 
+why is nobody concerned about patents. 
+lol wow. 
+thats how it works :P. 
+Volison: Is it the shift key on the left side of your keyboard?. 
+why is only me. 
+I just got a call about a XXX dvd. 
+barry2: that won't be possible once both legs have been shattered. 
+ah there is people!. 
+Not if it's from Africa! *rimshot*. 
+Im running low on bandwidth sorry :). 
+peeps is there anyway to change the temp the fan starts to spin much more? I need my laptop fan to start spinning to the max much earlier. cause well cpu is fresh but gpu gets hot because fan is not at max.. 
+Volison: are you pressing the left shift key, from memory thats the only one that does it. 
+patents do not affect me. 
+hygene.. 
+:D. 
+lol. 
+ewww. 
+horay europe. 
+ioni: yes they do. 
+will need the ambulance to 'carry me on'. 
+data, i mean. 
+anybody care to point me in the right direction?. 
+I’m not familiar with this hygiene thing, please tell me more.. 
+Volison, how did you install, using Wubi ?. 
+oh, ok. I'll try that with left shift key. 
+ioni: if they didn't, distros installed in europe would have s3tc enabled by default. 
+the bots brain is now 2000 lines. 
+Wow. 
+Try teaching it on #teamkang, its VERY active. 
+Woooo. 
+Yey. 
+lol. 
+O_o. 
+lol. 
+Wow. 
+Brain is getting better. 
+Whaaaat. 
+Whhhhhaaaatt. 
+HAHAHHAAHA. 
+TOO MANY BOTS! OVERLOAD... /me unloads. 
+Nerdgasm. 
+Whaaat. 
+Its got 2000 lins in its brain!". 
+Nah xD. 

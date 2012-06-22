@@ -34,6 +34,7 @@ public class AIBot extends ListenerAdapter implements Listener {
 
     @Override
     public void onMessage(MessageEvent event) throws Exception {
+        
         if ((event.getMessage().startsWith("!gtfo")) && "rymate1234".equals(event.getUser().getNick())) {
             event.respond("kthxbai");
             event.getBot().disconnect();
