@@ -55,6 +55,10 @@ public class AIBot extends ListenerAdapter implements Listener {
             event.getBot().sendMessage(event.getChannel(), "Got a question to ask the channel? Just go ahead and ask it! Don't ask to ask, if someone is there and they can answer, they will!");
         } 
         
+        if ((event.getMessage().startsWith("!ask"))) {
+            event.respond("Om nom nom nom. Thanks! :D");
+        } 
+        
         if (!event.getMessage().startsWith("!")) {
             try {
                 // Create file 

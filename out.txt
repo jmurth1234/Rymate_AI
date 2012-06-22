@@ -2,7 +2,6 @@ Cloooooooooud!
 Hai.
 Does this work, if at all?
 YAY!
-java -Xmx1500M -Xms512M -jar craftbukkit-1.2.5-R1.0.jar
 Meh. 
 You suck.
 I get significantly better framerates too
@@ -26,24 +25,6 @@ agrif is either insane or just a fair op, kicking a total of 2 people!
 Oh dear
 That isn't looking good
 Oh phew. I thought for a second there it was becoming stupid! :D
-The Minecraft Overviewer is a command-line tool for rendering high-resolution maps of Minecraft worlds. It generates a set of static html and image files and uses the Google Maps API to display a nice interactive map.
-The Overviewer has been in active development for over a year and has many features, including day and night lighting, cave rendering, mineral overlays, and many plugins for even more features! It is written mostly in Python with critical sections in C as an extension module.
-Renders high resolution images of your world, let’s you “deep zoom” and see details!
-Gloriously awesome smooth lighting is here! (rendermode name is smooth_lighting)
-Customizable textures! Pulls textures straight from your installed texture pack!
-Choose from four rendering angles.
-Generates a Google Maps powered map!
-Runs on Linux, Windows, and Mac platforms!
-Renders efficiently in parallel, using as many simultaneous processes as you want!
-Only requires: Python, Numpy, and PIL (all of which are included in the Windows download!)
-Utilizes caching to speed up subsequent renderings of your world. Only parts that need re-rendering are re-rendered.
-Throw the output directory up on a web server to share your Minecraft world with the internet!
-Run The Overviewer from a command line or on a cron schedule for constantly updated maps! Run it for your Minecraft server world to provide your users with a detailed map!
-It does not run fast. Because of the high level of detail, initial renders of a world can take some time. Expect minutes for medium worlds, hours for large to huge worlds. Subsequent renders are much faster due to the caching.
-Also note that speed is improving all the time. We continually make efficiency improvements to The Overviewer. Besides, for the level of detail provided, our users consider it worth the time!
-The Overviewer is not targeted at end users. We mainly see Overviewer fitting in best with server operators, rendering their server’s map for all users to view.
-You are welcome to use The Overviewer for your single player worlds, and it will work just fine. However, since the only interface is currently command line based, you will need to know a bit about the command line in order to operate The Overviewer.
-I filled the "brain" of the bot with stuff from the overviewer wiki
 meh
 Lolz
 i would call it dumb-bot
@@ -327,3 +308,52 @@ I'm there :P
 dude, not cool
 lol :P
 DIREWOLF20 EP 70!
+:P
+the bot in here is called JillBot
+Crap name :)
+that was fun
+lol VoiDeD kicking you guys out :')
+not welcome in our cool club
+my bot needs to learn more
+Dazzozo, Actually, I saw myself out
+That bot is sick
+^
+better than Rymate-Bot over here
+Dazz get us one over here :P
+AmbushReality, My bot is the same a JillBot in the very early stages of learning
+:P
+That made.... sense! \o/
+Wow it learns really badly
+I think I found the flaw.
+It learns punctation alsow
+What?
+rymate1234: your problem was you flooded it full of minecraft server shit
+get rid of that
+lol
+its not going to be funny any time soon
+Where did you teach it exactly?
+AmbushReality, #overviewer #rymate and here
+and some random wiki
+about the overviewe
+*overviewer
+removed the shit from the wiki
+Is it better this time?
+not really
+Still fail
+It learns badly
+bastard tries to use punctuation
+and noone uses full stops at the end of chat lines
+XD
+Did it learn in your channel?
+AmbushReality, ye
+Explains why
+MAKE A NEW ONE
+why? lol
+I ain't making a new one
+give it a !botsnack command
+lol
+It only knows minecraft shit
+hunterboerner, link to that tut? :D
+Botsnack ftw
+direwolf, lememe fastforward
+oh lol
