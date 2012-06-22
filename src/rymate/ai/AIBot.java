@@ -55,7 +55,7 @@ public class AIBot extends ListenerAdapter implements Listener {
             event.getBot().sendMessage(event.getChannel(), "Got a question to ask the channel? Just go ahead and ask it! Don't ask to ask, if someone is there and they can answer, they will!");
         } 
         
-        if ((event.getMessage().startsWith("!ask"))) {
+        if ((event.getMessage().startsWith("!botsnack"))) {
             event.respond("Om nom nom nom. Thanks! :D");
         } 
         
@@ -64,9 +64,9 @@ public class AIBot extends ListenerAdapter implements Listener {
                 // Create file 
                 FileWriter fstream = new FileWriter("out.txt", true);
                 BufferedWriter out = new BufferedWriter(fstream);
-                out.write(event.getMessage() + "\n");
+                out.write(event.getMessage() + ". \n");
                 out.close();
-                hal.add(event.getMessage());
+                hal.add(event.getMessage()+ ".");
             } catch (Exception e) {//Catch exception if any
                 System.err.println("Error: " + e.getMessage());
             }
