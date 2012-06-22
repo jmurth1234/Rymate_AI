@@ -1,0 +1,220 @@
+Cloooooooooud!
+Hai.
+Does this work, if at all?
+YAY!
+java -Xmx1500M -Xms512M -jar craftbukkit-1.2.5-R1.0.jar
+Meh. 
+You suck.
+I get significantly better framerates too
+Wazzap?
+"You haven't lived my man. Nothing like waking up in the morning and all your stuffed animals are stuck together." Reddit on wet dreams.
+PircBotX is a Java framework for writing IRC bots quickly and easily.
+It provides an event-driven architecture to handle common IRC events, flood protection, DCC support, ident support, and more. The comprehensive logfile format is suitable for use with pisg to generate channel statistics.
+Methods of the PircBotX class can be called to send events to the IRC server that it connects to. For example, calling the sendMessage method will send a message to a channel or user on the IRC server. Multiple servers can be supported using multiple instances of PircBotX.
+To perform an action when the PircBotX receives a normal message from the IRC server, you would listen for the MessageEvent in your listener (see ListenerAdapter). Many other events are dispatched as well for other incoming lines
+Yes. this bot is VERY AI..... NOT.
+I'm gonna leave my bot in here for a bit
+Its an AI bot based off http://www.jibble.org/jmegahal/
+A rather bad one
+Hai kais58 
+?converse
+Apparently my lines are too short. I'd better fix that! :D
+lol
+duckman wasn't very popular, getting kicked 2 times!
+For example, like this:
+agrif is either insane or just a fair op, kicking a total of 2 people! 
+Oh dear
+That isn't looking good
+Oh phew. I thought for a second there it was becoming stupid! :D
+The Minecraft Overviewer is a command-line tool for rendering high-resolution maps of Minecraft worlds. It generates a set of static html and image files and uses the Google Maps API to display a nice interactive map.
+The Overviewer has been in active development for over a year and has many features, including day and night lighting, cave rendering, mineral overlays, and many plugins for even more features! It is written mostly in Python with critical sections in C as an extension module.
+Renders high resolution images of your world, let’s you “deep zoom” and see details!
+Gloriously awesome smooth lighting is here! (rendermode name is smooth_lighting)
+Customizable textures! Pulls textures straight from your installed texture pack!
+Choose from four rendering angles.
+Generates a Google Maps powered map!
+Runs on Linux, Windows, and Mac platforms!
+Renders efficiently in parallel, using as many simultaneous processes as you want!
+Only requires: Python, Numpy, and PIL (all of which are included in the Windows download!)
+Utilizes caching to speed up subsequent renderings of your world. Only parts that need re-rendering are re-rendered.
+Throw the output directory up on a web server to share your Minecraft world with the internet!
+Run The Overviewer from a command line or on a cron schedule for constantly updated maps! Run it for your Minecraft server world to provide your users with a detailed map!
+It does not run fast. Because of the high level of detail, initial renders of a world can take some time. Expect minutes for medium worlds, hours for large to huge worlds. Subsequent renders are much faster due to the caching.
+Also note that speed is improving all the time. We continually make efficiency improvements to The Overviewer. Besides, for the level of detail provided, our users consider it worth the time!
+The Overviewer is not targeted at end users. We mainly see Overviewer fitting in best with server operators, rendering their server’s map for all users to view.
+You are welcome to use The Overviewer for your single player worlds, and it will work just fine. However, since the only interface is currently command line based, you will need to know a bit about the command line in order to operate The Overviewer.
+I filled the "brain" of the bot with stuff from the overviewer wiki
+meh
+Lolz
+i would call it dumb-bot
+derchris, correct! it uses a shit ai XD
+oops
+I didn't realize how annoying it would be to try to access my old user files from vista
+who the hell is kais58
+He needs better internet
+Virgin Media - sponsoring ping timeouts since 1990
+heh
+Well, I'm off afk
+RamsesA: oh yes, it is annyoing
+I've made a shortcut on my desktop though
+I hope I'm doing the right thing
+I've manually changed ownership via the security tab
+oh yay it worked
+of?
+Ooh, I see what you mean
+my old C:\Users\<account name>\ folder
+which had everything important in it
+couldn't access it
+I thought you meant "using the user interface to get there is annoying"
+While this is not true for the start menu, the file->open dialog has no good way of doing so
+well, I tried getting there via the explorer
+and it just started this progress bar
+that never ended
+ever
+let it go for an hour
+lol
+classic windows.
+That actually made sense \o/
+That sentence didn't make sense
+what is going on in here
+rymate has taken over the channel
+lol
+Hear his evil laughter!
+http://i.imgur.com/Pdy7u.png hahaha
+lol
+hello
+is some one here?
+http://www.youtube.com/watch?v=53m0syaPg9A
+Youtube Title: "Luftbanza Airlines ( #Photoshop )" - "http://youtu.be/53m0syaPg9A" - posted by "derchris"
+how can i dipslay more then one world with the overviewer?
+derchrisbot: this is crazy...
+duckman: USPS moved "9400110200793302313772" from Arrival at Post Office@PLEASANTON,CA,US to Out for Delivery@PLEASANTON,CA,US (http://goo.gl/GkL3N)
+??
+timoto: timoto see here http://docs.overviewer.org/en/latest/config/#a-more-complicated-example
+timoto: and ignore box-bot its just a package tracing thingy
+ok
+how can i install that?
+timoto: you havent to install anything for multi worlds in overviewer just write a configuration file.
+where must i put the conig file?
+timoto: there where you let the --settings= parameter point to.
+thanks
+timoto: just read that whole page it explains everything you need to know if anything is unclear just ask :)
+where can i found the minecraft.jar on my server
+i have used the command from the doc
+to download it
+timoto: its that one you execute to start it.
+?
+timoto: you execute java -jar /path/to/minecraft.jar right?
+wget -N http://s3.amazonaws.com/MinecraftDownload/minecraft.jar -P ~/.minecraft/bin/
+timoto: yes that one :)
+in the root folder
+anyone use gimp?
+how must i name the conig from the overviewer?
+no
+timoto: you can name it as you want (thats what --settings parameter is for.
+for exampel conif.txt?
+timoto: would probably work i think but its a python file so why not name it conif.py
+by my texture pack can i put in the minecraft.jar?
+timoto: you could set your texture pack directly to get used by overviewer.
+by texturepath = "/root/.minecraft/bin/minecraft.jar" will his work?
+I think so
+Also, please don't run overviewer as root
+thanks
+CounterPillow: why not?
+why not with root?
+It's generally considered bad practice to run programs with more priveliges than they need. A bug or mistake can cause a lot more damage if it's running as root
+where can i download the standert minecraft texture in zip format?
+timoto: nowhere you have to extract it from minecraft.jar 
+what the terain.png?
+just put client minecraft.jar in ./minecraft/bin/
+you dont need to extract it to make overviewer work
+thanks
+and dont set texturepath in the config
+worlds["world"] = "/home/minecarft/backups/world/" worlds["skylands"] = "/home/minecraft/backups/skylands/"  renders["worldday"] = {     "world": "world",     "title": "world Daytime",     "rendermode": smooth_lighting,     "dimension": "overworld", }   renders["skylands"] = {     "world": "skylands",     "title": "skylands",     "rendermode": smooth_lighting,     "dimension": "overworld", }  outputdir = "/var/www/map/" texturepath
+then it will use the .jar automatically
+but what i need to put theretexturepath = "/home/my_texture_pack.zip"
+so you want to use another tecture pack?
+here*
+and not the default?
+i want to use the default
+if you have the minecraft.jar in ~/.minecraft/bin/ then you dont need to set tecturepath
+just leave it out
+overviewer will try to use ~/.minecraft/bin/minecraft.jar if you do not set texturepath
+O_o
+Your bot stinks, rymate1234
+ikr
+That works
+?getMessage
+I've been pumping information into it from a minecraft map renderer wiki and the irc channel for that map render tool
+:P
+hi Rymate-Bot
+?converse this is how you use it
+Its..... not that good
+oops.
+Typo
+XD
+?gtfo
+!converse This is a test
+Chill wtf
+that
+is a long ass message
+!converse This is a test
+Im confused by how you do that
+i might add custom commandsa
+so you'll be able to do !cmdadd cmdname cmdcontent
+oops
+accidently the irc scrollback
+AmbushReality, its a bot I programmed in java
+Oh.
+does it learn based on channel messages?
+ye
+I also shoved some stuff in from a wiki
+!getMessage
+That bot is stupidd :P
+That is correct
+:P
+Still, better than i could do
+also its "brain" is only 176 lines long
+I tried learning java but it wouldnt do the javac stuff
+I might also add some custom commands system
+so you'll be able to do !cmdadd cmdname what the command says here
+!converse hai
+:(
+!comverse this bot is sucky and it knows it
+!converse this bot is sucky and it knows it
+O-o
+Talks shit
+ikr
+I did it for the lulz
+I cant do that though xD
+The brain is now 190 lines long! :P
+One sec while i kill myself.
+it needs its own hostname
+Whats the point.
+rymates.favourite.foxboy.org
+O.O
+Dazzozo, It's not gonna be 24/7
+its hosted on my freaking laptop
+woo
+it doesn't add commands into its brain now
+XD
+yo
+type "!gtfo" for meh
+lol that works
+XD
+Why meee
+stop people quitting the bot if they're not me
+Impressive
+make it say random messages at random intervals
+lol
+based on a recently said phrase
+How do i get one? Is there a guide for it? :P
+Dazzozo, maybe ;)
+.
+Yes
+:(
+uh
+uh
+..
+da fuk
+Your bot is slow.
