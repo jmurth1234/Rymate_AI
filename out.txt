@@ -218,3 +218,80 @@ uh
 ..
 da fuk
 Your bot is slow.
+ah
+whaaat?
+hi Rymate-Bot 
+wtf
+it dont work
+ye
+it quite bad
+XD
+what's that
+i haven;t a clue
+it hates url's
+XD
+-_-
+whhhhhattttt
+uh
+ok
+ok, that's messed up
+Its never done that before
+It collects its messages from irc channe;s
+XD
+wow
+lul
+so...
+HI rymate1234 
+lol
+would you like me to help with the code?
+nahhhh :P
+LET ME HELP!
+LUL
+something tells me Rymate-Bot isn't gonna pass any turing tests
+wut
+wtf did that come from
+do you know any WORKING AI bots?
+no
+There was a java lib that allowed you to hook into cleverbot
+but that seems to have disappeared
+otherwise i would've used that
+XD
+theres an online tutorial you should use
+Ill find it in a min
+wathicng direwolf20
+lol ok
+might be better than using a shitty lib
+it uses jmegahal
+yes
+I know
+I code the damn thing XD
+thats what the tutorial uses
+ohhhh lol
+wait, there's a better way of using jmegahal? XD
+probs
+you need to tell the bot to run on about 30 channels
+to get 50000 lines of chat in its database
+the more it learns, the more it thnks
+ye probably
+I could probably just find some logs form irc channels
+that too
+does it count how many things it has learned?
+nope
+however notepad++ shows line numbers
+:P
+281 lines
+you should make it so that there is a command to tell info like: lines learned, questions asked, most read channels
+I'm lazy though :P
+then put it on github and ill work on it
+fiiine
+do you know how to use git?
+ye
+Fuck this, im turning emo:-|
+github fo windows is extracting git -_-
+ARE YOU REALLY USING GITHUB FOR WINDOWS!
+use plain git
+unless youre a n00b
+then use github for windows
+hunterboerner, I'm not a noob, just lazy
+:P
+lul
