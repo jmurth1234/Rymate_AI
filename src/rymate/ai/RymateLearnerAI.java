@@ -24,25 +24,20 @@ public class RymateAI {
         bot.setVerbose(true); //Print everything, which is what you want to do 90% of the time
         bot.setAutoNickChange(true); //Automatically change nick when the current one is in use
 
-
+        //This class is a listener, so add it to the bots known listeners
         bot.getListenerManager().addListener(new AIBot());
-        bot.getListenerManager().addListener(new CommandsBot());
 
         try {
             //Connect to the freenode IRC network
-            
             bot.connect("irc.freenode.org");
             bot.joinChannel("#overviewer");
             bot.joinChannel("#rymate");
             bot.joinChannel("#zte-crescent");
-
-            
         } //In your code you should catch and handle each exception seperately,
         //but here we just lump them all togeather for simpliciy
         catch (Exception ex) {
             ex.printStackTrace();
         }
-        
 
     }
 }
